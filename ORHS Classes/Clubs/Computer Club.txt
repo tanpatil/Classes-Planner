@@ -1,0 +1,6 @@
+Club Name[[[ Computer Club
+Meeting Location[[[ Mr. Jackson's room, LC227
+Meeting Times[[[ Wedensday's after school
+Sponsers[[[ Mr.Jackson - kjackson@ortn.edu
+Announcements[[[ Sign up for discord via invite: discord.gg/BdKhhRh
+Description[[[ The purpose of the Computer Science Club is to improve the Computer Science skills of its members, whether they are a veteran coder or new to computer science. Groups of 2 or 3 members work on coding challenges throughout the year. We focus on UIs (User Interfaces), program design, and useful libraries.

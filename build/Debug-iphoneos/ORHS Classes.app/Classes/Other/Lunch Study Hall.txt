@@ -1,0 +1,6 @@
+Class Name[[[ Lunch Study Hall
+Subject/Category[[[ Other
+Number of Credits[[[ 0.0
+GPA[[[ 4.0
+Average Number of Hours of Homework per Day[[[ None
+Description[[[ This is a study hall class supervised by a certified teacher. Students are expected to use this time to work on homework or other academic pursuits.

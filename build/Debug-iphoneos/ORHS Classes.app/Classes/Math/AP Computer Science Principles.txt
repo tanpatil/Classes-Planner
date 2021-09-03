@@ -1,0 +1,6 @@
+Class Name[[[ AP Computer Science Principles
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Open to any student who has successfully completed Algebra1 with an A or B.
+Description[[[ AP Computer Science Principles focuses on foundational computing skills to help students understand the relevance of those computing skills to their college and career plans. Multidisciplinary in nature, this course teaches students how to analyze problems, use creative thinking, and create computational artifacts including programs. Throughout the course, students will collaborate to investigate real-world issues using computing. The course focuses on seven major ideas in computing: Creativity, Abstraction, Data and Information, Algorithms, Programming, Internet, and Global Impact.

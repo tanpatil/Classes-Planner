@@ -1,0 +1,6 @@
+Class Name[[[ DE Robotics
+Subject/Category[[[ Career Academies
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ None
+Description[[[ DE Robotics is an advanced course in the STEM career cluster for students interested in learning more about careers in engineering that include pneumatic, electro pneumatic, and hydraulic control circuits in complex systems. Upon completion of this course, proficient students will be able to explain the inter-relationships of components and modules within a complex robotics system. They will understand the differences between hydraulic and pneumatic fluid power and can explain the scientific principles that apply. They will troubleshoot and demonstrate continuous improvement models for iterative prototyping. This course explores modern materials and manufacturing methods, incorporating finance, ethics, and engineering design. The integrated approach teaches students to improve many facets of engineering design including safety, quality, and efficiency. Students will analyze, design, and build robotics systems. While implementing these designs, students will continually hone their interpersonal skills, creative abilities, and understanding of the design process.

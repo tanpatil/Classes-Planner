@@ -1,0 +1,6 @@
+Class Name[[[ AP Computer Science A
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Open to any student who has at least one semester of programming experience or has successfully completed Algebra 2.
+Description[[[ Students will follow the Advanced Placement Computer Science curriculum outline. AP booklets with a detailed course description are available through the AP Computer Science teacher or the Guidance Office. The major emphasis of this course is on programming methodology, algorithms, and data structures using JAVA. Applications are used to develop student awareness of the need for particular algorithms and data structures, as well as to provide topics for programming assignments to which the students can apply their knowledge. Treatments of computer systems and social implications of computing are integrated into the course work and not isolated as separate units.

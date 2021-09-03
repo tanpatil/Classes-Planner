@@ -1,0 +1,6 @@
+Class Name[[[ AP Calculus AB
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Pre-calculus AB SWDC or Pre-calculus BC SWDC
+Description[[[ This course will cover levels (A) and (B) seen under the AP Calculus-BC description.

@@ -1,0 +1,6 @@
+Class Name[[[ AP Statistics
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Algebra 2
+Description[[[ The four major themes of this course include: (1) Exploring Data: Describing patterns and departures from patterns, (2) Sampling and Experimentation: Planning and conducting a study, (3) Anticipating Patterns: Exploring random phenomena using probability distributions and simulation, and (4) Statistical Inference: Estimating population parameters and testing hypotheses. This course will be taught at the level of a college statistics course with the expectation that enrollees will likely take the AP Exam in May for a chance at college credit.

@@ -1,0 +1,6 @@
+Class Name[[[ Dual Enrollment Pre-calculus
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Algebra 2; 3.0 GPA; 23 or higher on the math portion of the ACT
+Description[[[ Pre-calculus is designed to prepare students for college level STEM focused courses. Students who take this course will dually enroll at Roane State Community College. This course is designed primarily for students planning to enter the calculus sequence in college. Topics include functions and graphing-algebraic, trigonometric, exponential and logarithmic, equations, the binomial theorem, and conics.

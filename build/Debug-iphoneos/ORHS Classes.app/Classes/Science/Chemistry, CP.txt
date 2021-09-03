@@ -1,0 +1,6 @@
+Class Name[[[ Chemistry, CP
+Subject/Category[[[ Science
+Number of Credits[[[ 1.0
+GPA[[[ 4.0
+Average Number of Hours of Homework per Day[[[ Biology and Algebra 1
+Description[[[ Chemistry, CP is an introductory chemistry course designed to give students an overview of chemistry in order to prepare them for college. This conceptual approach to chemistry focuses on guided inquiry, atomic structure, energy, mathematical modeling, and qualitative interactions of matter through problem-based learning.

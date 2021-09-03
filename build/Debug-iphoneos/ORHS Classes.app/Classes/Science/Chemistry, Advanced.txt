@@ -1,0 +1,6 @@
+Class Name[[[ Chemistry, Advanced
+Subject/Category[[[ Science
+Number of Credits[[[ 1.0
+GPA[[[ 4.25
+Average Number of Hours of Homework per Day[[[ Biology, Algebra 1
+Description[[[ Chemistry Advanced is an introductory chemistry course designed to give students an in-depth study of chemistry in order to prepare them for college and STEM related fields. This analytical approach to chemistry focuses on inquiry, modern atomic theory, interactions of matter, thermochemistry, qualitative and quantitative analyses of chemical reactions, solutions, and acid-base chemistry.

@@ -1,0 +1,6 @@
+Class Name[[[ AP Physics 1
+Subject/Category[[[ Science
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Successful Completion of Algebra II and Honors Chemistry
+Description[[[ AP Physics 1 is the equivalent to a first-semester college course in algebra-based physics. Students who take this course are prepared for the AP Physics 1 exam. The course covers Newtonian mechanics (motion, force, circular motion), work and energy, momentum and collisions, and mechanical waves and sound. It will also introduce electric circuits. All course requirements will be completed within regular class time. This class is not a prerequisite to AP Physics C.

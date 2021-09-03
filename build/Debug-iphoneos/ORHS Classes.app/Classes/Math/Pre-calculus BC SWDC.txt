@@ -1,0 +1,6 @@
+Class Name[[[ Pre-calculus BC SWDC
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Algebra 2/Trigonometry, Honors.
+Description[[[ Emphasis is placed on a rigorous problem solving approach and mathematical development with calculator enhancement of the following topics: number theory, sequences and series, limit theory, probability, data analysis/statistics, linear programming, polynomial functions, logarithmic and exponential functions, trigonometric functions, analytic geometry, parametrics, and vectors. A technology laboratory requiring approximately 3 additional hours (outside of class) per nine weeks grading period is strongly encouraged to enhance student proficiency on the TI-89 graphing calculator. This course will offer State Dual Credit upon successful completion of the State Pre-Calculus Challenge Exam.

@@ -1,0 +1,6 @@
+Class Name[[[ String Orchestra
+Subject/Category[[[ Fine Arts
+Number of Credits[[[ 1.0
+GPA[[[ 4.0
+Average Number of Hours of Homework per Day[[[ None
+Description[[[ String Orchestra is a performance group at Oak Ridge High School giving several performances throughout the year. The orchestra participates in festivals and competitions as a group as well as students playing individually in All-State and festival orchestras. Prior playing experience is required.

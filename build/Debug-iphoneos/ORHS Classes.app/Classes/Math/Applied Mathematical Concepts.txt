@@ -1,0 +1,6 @@
+Class Name[[[ Applied Mathematical Concepts
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 4.0
+Average Number of Hours of Homework per Day[[[ Algebra 2
+Description[[[ Applied Mathematical Concepts is primarily focused on mathematics as applied to real life problems. Topics of study include financial mathematics, linear programming, Logic and Boolean Algebra, as well as topics in probability and statistics. This course satisfies the state requirement for the fourth year of mathematics.

@@ -1,0 +1,6 @@
+Class Name[[[ Astronomy
+Subject/Category[[[ Science
+Number of Credits[[[ 1.0
+GPA[[[ 4.0
+Average Number of Hours of Homework per Day[[[ Successful Completion of Geometry and Chemistry or Physics
+Description[[[ Astronomy is a student-centered course determined to provide a basic understanding of the structure of the universe while allowing students to pursue their specific interests, including observational astronomy and authentic scientific research. Special attention is given to the introduction of tools for analyzing astronomical images, computer modeling, and simulations of the night sky. Advanced mathematical skills are not required; a passion for the night sky and asking questions is a must.

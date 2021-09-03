@@ -1,0 +1,6 @@
+Class Name[[[ AP Calculus BC
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Pre-calculus BC SWDC
+Description[[[ There are three levels of course work in the Advanced Placement Calculus curriculum:(A) Differential Calculus; (B) Integral Calculus; (C) Further applications of differential and integral calculus including formal integration, indeterminate forms, plane curve geometry, infinite series, and differential equations. Advanced Placement curricular outlines with more detailed descriptions of the courses are available through the calculus teachers.

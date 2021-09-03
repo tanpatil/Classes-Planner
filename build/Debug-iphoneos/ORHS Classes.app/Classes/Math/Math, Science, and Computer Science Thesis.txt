@@ -1,0 +1,6 @@
+Class Name[[[ Math, Science, and Computer Science Thesis
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Linear Algebra, Multivariable Calculus, Differential Equations, and teacher recommendation
+Description[[[ This course is designed to draw upon the expertise of scientific professionals in the community to serve as advisors for the student's thesis project. The statement of the problem to be studied, methodology employed, results with analysis and conclusions will be presented by the student in a 18 – 20 page written document at the culmination of the project. Such projects must involve computer science work to receive credit.

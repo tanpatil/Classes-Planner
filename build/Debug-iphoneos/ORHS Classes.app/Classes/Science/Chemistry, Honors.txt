@@ -1,0 +1,6 @@
+Class Name[[[ Chemistry, Honors
+Subject/Category[[[ Science
+Number of Credits[[[ 1.0
+GPA[[[ 4.5
+Average Number of Hours of Homework per Day[[[ Biology, and Honors Geometry or AGATE 1
+Description[[[ This course is designed to be an accelerated, comprehensive survey of introductory chemistry topics including, but not limited to, atomic and molecular theories, interactions of matter, thermodynamics, qualitative and quantitative analyses of chemical reactions, solutions and solution stoichiometry, equilibria, and acid-base chemistry. Throughout the year, mathematical reasoning, laboratory investigation, and critical thinking will be emphasized. The content is specifically designed to prepare students for Advanced Placement (AP) Chemistry.

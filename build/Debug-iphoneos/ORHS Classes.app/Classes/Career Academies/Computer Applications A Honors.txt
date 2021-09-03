@@ -1,0 +1,6 @@
+Class Name[[[ Computer Applications A Honors
+Subject/Category[[[ Career Academies
+Number of Credits[[[ 0.5
+GPA[[[ 4.5
+Average Number of Hours of Homework per Day[[[ None
+Description[[[ Computer Applications A is a foundational course intended to teach students the computing fundamentals and concepts involved in the use of common software applications including Microsoft Office 2016 Word, Excel, and PowerPoint. Upon completion of this course, students will gain basic proficiency in word processing, spreadsheets, and presentations. In addition, students will have engaged in key critical thinking skills and will have practiced ethical and appropriate behavior required for the responsible use of technology. Standards in this course are aligned with Tennessee State Standards for Literacy in Technical Subjects and Tennessee State Standards in Mathematics. The course credit for this class is a universal credit for any area of focus. Students will have the opportunity to earn Microsoft Office Specialist Certifications for free.

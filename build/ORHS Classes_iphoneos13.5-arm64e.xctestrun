@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ORHS ClassesTests</key>
+	<dict>
+		<key>BlueprintName</key>
+		<string>ORHS ClassesTests</string>
+		<key>BundleIdentifiersForCrashReportEmphasis</key>
+		<array>
+			<string>com.example.ORHS-ClassesTests</string>
+			<string>com.example.ORHS-Classes1</string>
+		</array>
+		<key>CommandLineArguments</key>
+		<array/>
+		<key>DependentProductPaths</key>
+		<array>
+			<string>__TESTROOT__/Debug-iphoneos/ORHS Classes.app/PlugIns/ORHS ClassesTests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/ORHS Classes.app</string>
+		</array>
+		<key>EnvironmentVariables</key>
+		<dict>
+			<key>OS_ACTIVITY_DT_MODE</key>
+			<string>YES</string>
+			<key>SQLITE_ENABLE_THREAD_ASSERTIONS</key>
+			<string>1</string>
+		</dict>
+		<key>IsAppHostedTestBundle</key>
+		<true/>
+		<key>ProductModuleName</key>
+		<string>ORHS_ClassesTests</string>
+		<key>RunOrder</key>
+		<integer>0</integer>
+		<key>SystemAttachmentLifetime</key>
+		<string>deleteOnSuccess</string>
+		<key>TestBundlePath</key>
+		<string>__TESTHOST__/PlugIns/ORHS ClassesTests.xctest</string>
+		<key>TestHostBundleIdentifier</key>
+		<string>com.example.ORHS-Classes1</string>
+		<key>TestHostPath</key>
+		<string>__TESTROOT__/Debug-iphoneos/ORHS Classes.app</string>
+		<key>TestLanguage</key>
+		<string></string>
+		<key>TestRegion</key>
+		<string></string>
+		<key>TestTimeoutsEnabled</key>
+		<false/>
+		<key>TestingEnvironmentVariables</key>
+		<dict>
+			<key>DYLD_INSERT_LIBRARIES</key>
+			<string>__TESTHOST__/Frameworks/libXCTestBundleInject.dylib:/Developer/usr/lib/libMainThreadChecker.dylib</string>
+			<key>MTC_CRASH_ON_REPORT</key>
+			<string>1</string>
+			<key>XCInjectBundleInto</key>
+			<string>unused</string>
+		</dict>
+		<key>ToolchainsSettingValue</key>
+		<array/>
+		<key>UITargetAppCommandLineArguments</key>
+		<array/>
+		<key>UITargetAppMainThreadCheckerEnabled</key>
+		<true/>
+		<key>UserAttachmentLifetime</key>
+		<string>deleteOnSuccess</string>
+	</dict>
+	<key>__xctestrun_metadata__</key>
+	<dict>
+		<key>FormatVersion</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

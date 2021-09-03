@@ -1,0 +1,3274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		yUPkAUR3KLQqHc7lCxXID1wJbUY=
+		</data>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<data>
+		GPEO//KbmELNUCnlODqBdrjL4+Q=
+		</data>
+		<key>Assets.car</key>
+		<data>
+		iabmQgN2YZv1giXdSFBfvVOmsR4=
+		</data>
+		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
+		<data>
+		Ofj7f0C8pmZHWshWat2K73JZL6k=
+		</data>
+		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
+		<data>
+		n2t8gsDpfE6XkhG31p7IQJRxTxU=
+		</data>
+		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
+		<data>
+		+VpYOZlUO+XzrwYPZuKVlDBQCQY=
+		</data>
+		<key>Classes/Career Academies/Accounting I CP.txt</key>
+		<data>
+		4rqwp0zgnQ7a5O0anRORRUhmOWY=
+		</data>
+		<key>Classes/Career Academies/Accounting I Honors.txt</key>
+		<data>
+		zq25izKJMMI7TJmciKy7qokuHVM=
+		</data>
+		<key>Classes/Career Academies/Accounting II CP.txt</key>
+		<data>
+		A6dhqXPOw5zLkJhSC31EPHqB0t0=
+		</data>
+		<key>Classes/Career Academies/Accounting II Honors.txt</key>
+		<data>
+		77uqbulKktWAXPcgFfwtP1FU5d4=
+		</data>
+		<key>Classes/Career Academies/Advanced Computer Applications + MOS Certification.txt</key>
+		<data>
+		oC9GMq/B8Z1ERuMiYzieGiNlvwk=
+		</data>
+		<key>Classes/Career Academies/Anatomy and Physiology Honors.txt</key>
+		<data>
+		dnsSAPfq2M/zX1sIVLinxoIFXKA=
+		</data>
+		<key>Classes/Career Academies/Automotive Maintenance and Light Repair I.txt</key>
+		<data>
+		pLEsSICSgaSiC8+sMQHOnAqr4BE=
+		</data>
+		<key>Classes/Career Academies/Automotive Maintenance and Light Repair II.txt</key>
+		<data>
+		AYYMlpxMAtWfn+O9nh7JS7cEx/0=
+		</data>
+		<key>Classes/Career Academies/Broadcasting 1.txt</key>
+		<data>
+		ka7Msl+4d8QF7QeO9U4c3n+RUJo=
+		</data>
+		<key>Classes/Career Academies/Broadcasting 3 Honors.txt</key>
+		<data>
+		pGE1KUTWu89/NgOOe6rqx52Frxw=
+		</data>
+		<key>Classes/Career Academies/Business Communications.txt</key>
+		<data>
+		9icMln/zKd8/l+L5mvFSzSmRbfs=
+		</data>
+		<key>Classes/Career Academies/Business Management.txt</key>
+		<data>
+		SQxJsba7J6oXMXFl5Kxe3OB7Qms=
+		</data>
+		<key>Classes/Career Academies/Clinical Internship Honors and Pharmacy Tech.txt</key>
+		<data>
+		Qcham+HUaai/OWbF4ag9zh/XCMY=
+		</data>
+		<key>Classes/Career Academies/Coding A.txt</key>
+		<data>
+		as0asq6Q4nuJ3NjMUaqZKrxWjho=
+		</data>
+		<key>Classes/Career Academies/Coding B.txt</key>
+		<data>
+		rG56SHhkC5rdwBvjm6i8Oxt19LM=
+		</data>
+		<key>Classes/Career Academies/Computer Applications A Honors.txt</key>
+		<data>
+		r9YqPl8j+oeCz9yaNDOEqkztxVo=
+		</data>
+		<key>Classes/Career Academies/Computer Applications B Honors.txt</key>
+		<data>
+		wgqGDVaJfSAw+G9Q3Pmi9ow8uTs=
+		</data>
+		<key>Classes/Career Academies/DE Accounting 1.txt</key>
+		<data>
+		MoQ1UZsO3FaOk9DtOeHsNn2cn2A=
+		</data>
+		<key>Classes/Career Academies/DE Accounting II.txt</key>
+		<data>
+		qTKV4obK5pji6wW2AFmX6Sc2ouk=
+		</data>
+		<key>Classes/Career Academies/DE Advanced STEM Applications.txt</key>
+		<data>
+		HMVpzRqB0P9NGBiqBSVBfL64/wY=
+		</data>
+		<key>Classes/Career Academies/DE Automotive Maintenance and Light Repair.txt</key>
+		<data>
+		D30Xr2HFg5a09YDoCkKvK4utuDc=
+		</data>
+		<key>Classes/Career Academies/DE Clinical Services.txt</key>
+		<data>
+		bTOkaCKWWhd4Q/Br9657YF+XZig=
+		</data>
+		<key>Classes/Career Academies/DE Early Childhood Education Careers 3.txt</key>
+		<data>
+		cPIGxRCm/jpBBglaZctoLIWeaSk=
+		</data>
+		<key>Classes/Career Academies/DE Robotics.txt</key>
+		<data>
+		fRsS0A12VoSN4AhIP5SjtXqzFeY=
+		</data>
+		<key>Classes/Career Academies/DE Welding.txt</key>
+		<data>
+		phXHwN1ue4RNwyQz1BKMDmeJYEc=
+		</data>
+		<key>Classes/Career Academies/Digital Arts &amp; Design 1.txt</key>
+		<data>
+		K9RboMyeH4x6HgJi3ukEbknLd9A=
+		</data>
+		<key>Classes/Career Academies/Digital Arts &amp; Design 2.txt</key>
+		<data>
+		flZx2FCcrvkOA91TOM1jV2gYo9k=
+		</data>
+		<key>Classes/Career Academies/Digital Arts &amp; Design 3.txt</key>
+		<data>
+		/WWM4UpEdFfPWEYkmmplj42FdrI=
+		</data>
+		<key>Classes/Career Academies/Dual Credit Broadcasting 2.txt</key>
+		<data>
+		Xh0T7m16YJYWv2MNkE4vFbP9DhY=
+		</data>
+		<key>Classes/Career Academies/Dual Enrollment Nursing Education.txt</key>
+		<data>
+		0Ad4rJDAQU6ZAzCoSFn5Ar63Ps0=
+		</data>
+		<key>Classes/Career Academies/Early Childhood Education Careers 1.txt</key>
+		<data>
+		JbKrcm02bkSrnXfEY6aKHPVKekE=
+		</data>
+		<key>Classes/Career Academies/Early Childhood Education Careers 2.txt</key>
+		<data>
+		43owF9/Rnv82y0qPhUmuHyprvkA=
+		</data>
+		<key>Classes/Career Academies/Early Childhood Education Careers Work- Based Learning and Student Teacher Internships.txt</key>
+		<data>
+		Cn9rD5lroxs0kUTSEsmjpCsl30k=
+		</data>
+		<key>Classes/Career Academies/Entrepreneurship.txt</key>
+		<data>
+		vLPCapNBckJUqxVSc2PFd4WUEFM=
+		</data>
+		<key>Classes/Career Academies/Foundations of Technology.txt</key>
+		<data>
+		ymu7MD6wuefTUFvnTXOud21/BnU=
+		</data>
+		<key>Classes/Career Academies/Introduction to Business and Marketing.txt</key>
+		<data>
+		luBzIzMPUv/fg1jbDunZ3JwgRrI=
+		</data>
+		<key>Classes/Career Academies/Marketing and Management.txt</key>
+		<data>
+		bBOwDZNJnDGfUYVc5mxE9u/v85A=
+		</data>
+		<key>Classes/Career Academies/Medical Therapeutics.txt</key>
+		<data>
+		ck2J8kMD3SCwYCpY1/Uxuw7MTxo=
+		</data>
+		<key>Classes/Career Academies/Naval Science 1 CP.txt</key>
+		<data>
+		Df8q9HykvCYjbhcooyKdrJVisiU=
+		</data>
+		<key>Classes/Career Academies/Naval Science 2 CP.txt</key>
+		<data>
+		M2zMP2/2Fy4b0h5qHVtV1Yoo0ek=
+		</data>
+		<key>Classes/Career Academies/Naval Science 3 CP.txt</key>
+		<data>
+		+CvcxQdu7KseX9A82BYpJdH4oNM=
+		</data>
+		<key>Classes/Career Academies/Naval Science 4 CP.txt</key>
+		<data>
+		9szuNRbEyyzQ4YtvUFJ1U4rsDZ0=
+		</data>
+		<key>Classes/Career Academies/Rehabilitation Careers.txt</key>
+		<data>
+		dg0quD9imVOT2/ScSfJKrYzn1qY=
+		</data>
+		<key>Classes/Career Academies/Technological Design.txt</key>
+		<data>
+		HnCIUbwF4E6+Xw69/ptTPGmzRCA=
+		</data>
+		<key>Classes/Career Academies/Virtual Enterprises, International TM.txt</key>
+		<data>
+		hOO6k2F/yuzQn5PVCxWS2D+1uLs=
+		</data>
+		<key>Classes/Career Academies/Welding I.txt</key>
+		<data>
+		E7HPBmKFeMh9Ip2yIU5TLG2Nkoo=
+		</data>
+		<key>Classes/Career Academies/Welding II.txt</key>
+		<data>
+		aF0XmfnBcbE+HM9MV6t36wkXaPg=
+		</data>
+		<key>Classes/Career Academies/Work-Based Learning.txt</key>
+		<data>
+		iUolhLcH1l9v0o66CUrsRnd1DQs=
+		</data>
+		<key>Classes/Economics/AP Macroeconomics.txt</key>
+		<data>
+		fcF/yl4My5eZJR+xZtQAVrO6CKI=
+		</data>
+		<key>Classes/Economics/AP Microeconomics.txt</key>
+		<data>
+		QOqKAk9QWI1c/NTan5fgyplKd8M=
+		</data>
+		<key>Classes/Economics/Economics CP.txt</key>
+		<data>
+		cljtBqOSWbZa/yDYbZRwO85Q8mM=
+		</data>
+		<key>Classes/English/AP English Language and Composition.txt</key>
+		<data>
+		VgR/BmiS7PE5NtklDWw8+2cZDfs=
+		</data>
+		<key>Classes/English/AP English Literature and Composition.txt</key>
+		<data>
+		U4043WCqDHyxQITYUDsZ3UI+PoM=
+		</data>
+		<key>Classes/English/Creative Writing.txt</key>
+		<data>
+		uIMLTGP63nEsx7KSM7314Gw8Nn4=
+		</data>
+		<key>Classes/English/English 10 CP.txt</key>
+		<data>
+		Mry9AHmZjCRaUcrS292P12VclL8=
+		</data>
+		<key>Classes/English/English 10 Honors.txt</key>
+		<data>
+		oUUjDSnF1yHzSvay0KJxdZ0jlL4=
+		</data>
+		<key>Classes/English/English 10 Honors: Combined Studies.txt</key>
+		<data>
+		mvCvRwB2UStO1p7QPEnmO4/9qqQ=
+		</data>
+		<key>Classes/English/English 10 Workshop.txt</key>
+		<data>
+		0insMpNtfKgKzfqTOGEkZzZvlCs=
+		</data>
+		<key>Classes/English/English 11 CP.txt</key>
+		<data>
+		bYiOtTp5ZVz8YzgubPAGSmr7L0E=
+		</data>
+		<key>Classes/English/English 11 Honors.txt</key>
+		<data>
+		hx+zf4gTR5GiayMFmhqyveNK05c=
+		</data>
+		<key>Classes/English/English 12 CP.txt</key>
+		<data>
+		APeJcG8/K9PmnzRnjbIaTiJUViE=
+		</data>
+		<key>Classes/English/English 12.txt</key>
+		<data>
+		ISVB5j+tLf3PyOKG5m9shz1hN80=
+		</data>
+		<key>Classes/English/English 9 CP.txt</key>
+		<data>
+		BgwN7+qvml1YSFMTo17LQ0A72gQ=
+		</data>
+		<key>Classes/English/English 9 Honors.txt</key>
+		<data>
+		QrhMn+XeCQQu3v/p95tK2MCiKGM=
+		</data>
+		<key>Classes/English/English 9 Workshop.txt</key>
+		<data>
+		dyvnvSyJQnja1RyaY/EdhjMauxE=
+		</data>
+		<key>Classes/English/English Language Development 9, 10,11, 12.txt</key>
+		<data>
+		s/GzeB6NCR7CGOYU1rL3Zr07U0U=
+		</data>
+		<key>Classes/English/Journalism - Oak Log.txt</key>
+		<data>
+		zUwgGIDApiOrjtl5WB2pITW+IvY=
+		</data>
+		<key>Classes/Fine Arts/AP Art Studio.txt</key>
+		<data>
+		YFvBetKlVxc+IhBiz7osm09ov7k=
+		</data>
+		<key>Classes/Fine Arts/AP Theory and Harmony.txt</key>
+		<data>
+		z+xE5rjVYF43GVOj2ScqI0mruPo=
+		</data>
+		<key>Classes/Fine Arts/Art 2-D, Honors.txt</key>
+		<data>
+		yuNj5pRbv/9UP6btzunXKRxzALY=
+		</data>
+		<key>Classes/Fine Arts/Art 9th Grade Honors.txt</key>
+		<data>
+		TlFJad5lipFj5tgHUZaGIqdh+O4=
+		</data>
+		<key>Classes/Fine Arts/Art Foundations.txt</key>
+		<data>
+		uUkb8Cnoqofr4uWwAgM0m9OPjXc=
+		</data>
+		<key>Classes/Fine Arts/Art of Photography.txt</key>
+		<data>
+		uNzAdvaTevJb8oZEnPQ4XszhFzo=
+		</data>
+		<key>Classes/Fine Arts/Band, Honors.txt</key>
+		<data>
+		pD2HQ3p8u2CmhsvjtnsHymI1Qv8=
+		</data>
+		<key>Classes/Fine Arts/Band, Regular.txt</key>
+		<data>
+		5HY7pn+5A7iRcofk7xD8mYZGLco=
+		</data>
+		<key>Classes/Fine Arts/Ceramics.txt</key>
+		<data>
+		jQcPs9d//kzcXxlimCldj9LDocE=
+		</data>
+		<key>Classes/Fine Arts/Color Guard.txt</key>
+		<data>
+		AWeZ5AQQ4z2l1w0bJW2IAiVXwB8=
+		</data>
+		<key>Classes/Fine Arts/DE Ceramics.txt</key>
+		<data>
+		8CN6F0bySyEU/Dg5GETViZ4ezns=
+		</data>
+		<key>Classes/Fine Arts/Ensemble Choir, Honors.txt</key>
+		<data>
+		FTTXFjCeLWZH03WM8ZEEYaYwrgE=
+		</data>
+		<key>Classes/Fine Arts/SSA Choir.txt</key>
+		<data>
+		QSnpwar+NlUl3wtvnjwjL0PmSgs=
+		</data>
+		<key>Classes/Fine Arts/Select SSAA Choir.txt</key>
+		<data>
+		SAbd2b2+YxC9FXrL91cz86Jwpn4=
+		</data>
+		<key>Classes/Fine Arts/Select TTBB Choir.txt</key>
+		<data>
+		Z5oo+ISbRS1ED1gaIRWbgKSNUKs=
+		</data>
+		<key>Classes/Fine Arts/String Orchestra, 9 Honors.txt</key>
+		<data>
+		pr+N9p/2O4q71/0ktKZkmJCUw78=
+		</data>
+		<key>Classes/Fine Arts/String Orchestra, Honors.txt</key>
+		<data>
+		A4FHOJnc+PECX/gvjGMVgKRGDNk=
+		</data>
+		<key>Classes/Fine Arts/String Orchestra-9.txt</key>
+		<data>
+		s5uzpds8/en7RU8BSZMBrx+ufvc=
+		</data>
+		<key>Classes/Fine Arts/String Orchestra.txt</key>
+		<data>
+		q5rnjIQqCN1RiA0DN+YLcwVaLlo=
+		</data>
+		<key>Classes/Fine Arts/TBB Choir.txt</key>
+		<data>
+		fMNATLYVj+ZfULMQ/zC1JCiv5NM=
+		</data>
+		<key>Classes/Math/AGATE 1 Algebra 1 Advanced.txt</key>
+		<data>
+		JTPz3iirSrP7EfwUpPk40iMQzaM=
+		</data>
+		<key>Classes/Math/AGATE 2 Geometry and Algebra 2 Trigonometry Advanced.txt</key>
+		<data>
+		SF44+Mue4DLxtUTQvE3tgCCs0Bg=
+		</data>
+		<key>Classes/Math/AP Calculus AB.txt</key>
+		<data>
+		AlyMm2fAgQ8TZYvdgMmHWc18HjU=
+		</data>
+		<key>Classes/Math/AP Calculus BC.txt</key>
+		<data>
+		Ub5DW7CH8KqLOlclIM2h34wTHHc=
+		</data>
+		<key>Classes/Math/AP Computer Science A.txt</key>
+		<data>
+		G/0XJ3E31EClTcnmeMH5VAA8DOs=
+		</data>
+		<key>Classes/Math/AP Computer Science Principles.txt</key>
+		<data>
+		BuJMav/tHwWPCVjWwHANtN7Kxyk=
+		</data>
+		<key>Classes/Math/AP Statistics.txt</key>
+		<data>
+		xLpA3cIicL3wvNM0yvJNREsxvoM=
+		</data>
+		<key>Classes/Math/Algebra 1 CP.txt</key>
+		<data>
+		npXb4Cw6roQxaEOWgXVYcpJFbu4=
+		</data>
+		<key>Classes/Math/Algebra 2 CP.txt</key>
+		<data>
+		AMJnAqfT+JnQXoWgZtCqwFoGVKk=
+		</data>
+		<key>Classes/Math/Algebra 2 Trigonometry Adv.txt</key>
+		<data>
+		iSNKDEx89ZkfCkGkA5loVnjb/To=
+		</data>
+		<key>Classes/Math/Algebra 2 Trigonometry Honors.txt</key>
+		<data>
+		p47xqg37yvgF5s6FWg7H19jIYj0=
+		</data>
+		<key>Classes/Math/Algebra A CP.txt</key>
+		<data>
+		jaDtv7s3w3eqoVelUdkCDXEzRuo=
+		</data>
+		<key>Classes/Math/Algebra B CP.txt</key>
+		<data>
+		tsm9R5/AOpqemB16VQqtGgUdu8I=
+		</data>
+		<key>Classes/Math/Applied Mathematical Concepts.txt</key>
+		<data>
+		SBtVbdtxoUKA3jPC1yDeU8v0Vco=
+		</data>
+		<key>Classes/Math/DE Statistics.txt</key>
+		<data>
+		3keHAfstLWDboQ3qjVA4pvx3U2U=
+		</data>
+		<key>Classes/Math/Dual Enrollment Differential Equations.txt</key>
+		<data>
+		zbUk/PCQC8uqT6IPE1+PfHX8kOU=
+		</data>
+		<key>Classes/Math/Dual Enrollment Linear Algebra.txt</key>
+		<data>
+		w6UWTMkasWbUINLiZ6QQYVrPTCU=
+		</data>
+		<key>Classes/Math/Dual Enrollment Multivariable Calculus.txt</key>
+		<data>
+		Oz9CQT53aBdpQquzewFF0YV9LOk=
+		</data>
+		<key>Classes/Math/Dual Enrollment Pre-calculus.txt</key>
+		<data>
+		oJCocjEsCu+FkymYYjBE63tvulo=
+		</data>
+		<key>Classes/Math/Geometry A CP.txt</key>
+		<data>
+		FlqkbUoSXPXI2sd4RR6ldS6W+2I=
+		</data>
+		<key>Classes/Math/Geometry B CP.txt</key>
+		<data>
+		z3vgW+4/Ll3u8ldD4Wg0F3bT2fg=
+		</data>
+		<key>Classes/Math/Geometry CP.txt</key>
+		<data>
+		LVk2Q038nwik4vfwjR+y/I1bAx8=
+		</data>
+		<key>Classes/Math/Geometry Honors.txt</key>
+		<data>
+		Bk7w6aasECpLGyQ9vSoA8RMzt6g=
+		</data>
+		<key>Classes/Math/Math, Science, and Computer Science Thesis.txt</key>
+		<data>
+		P6VI2vgcF+n6EgKqA1F2qtfgjBQ=
+		</data>
+		<key>Classes/Math/Pre-calculus AB SWDC.txt</key>
+		<data>
+		nIUNIvF8jO/mhCbnSdpEmUsSbKc=
+		</data>
+		<key>Classes/Math/Pre-calculus BC SWDC.txt</key>
+		<data>
+		83LejVg3GsOZiE094LUUFq5mRkE=
+		</data>
+		<key>Classes/Math/SAILS Algebra 3.txt</key>
+		<data>
+		jcHcXQS6M+yd5IAw0ahd/MLBdc8=
+		</data>
+		<key>Classes/Math/Statistics SWDC.txt</key>
+		<data>
+		eGJ8+fadBv9CSNROyWQZtCL6BXo=
+		</data>
+		<key>Classes/Other/AP Psychology.txt</key>
+		<data>
+		P9jfA6U1vb6rZjchcf70oiup0Wg=
+		</data>
+		<key>Classes/Other/AVID 9, 10, 11, 12.txt</key>
+		<data>
+		yV/CNdVBiSGAfICL+iQRPffnwNk=
+		</data>
+		<key>Classes/Other/ESL Support 9, 10,11, 12.txt</key>
+		<data>
+		ObajIKPdMKLZxTaMqf45Wjwc6Fk=
+		</data>
+		<key>Classes/Other/Guided Study 9, Guided Study 10-12.txt</key>
+		<data>
+		Ydja5QhouaDQhzlMn8+K1/yJ75g=
+		</data>
+		<key>Classes/Other/Lunch Study Hall.txt</key>
+		<data>
+		KBSLtwxeezO5vt0PSBLQdOLuSVI=
+		</data>
+		<key>Classes/Other/Psychology CP.txt</key>
+		<data>
+		4n86lkAMGbm7U0ZBAYOjVoKIoSI=
+		</data>
+		<key>Classes/Other/ROAR.txt</key>
+		<data>
+		zT/haac/KuCSrDWRUE7Hf3j6rG0=
+		</data>
+		<key>Classes/Other/Service Learning.txt</key>
+		<data>
+		AHVP4l3XO/xNispLlQ2JWIBghHY=
+		</data>
+		<key>Classes/Other/Sociology CP.txt</key>
+		<data>
+		yAKpjxaiDRvcTyVk5at3Tq+Gqd8=
+		</data>
+		<key>Classes/Other/Student Council.txt</key>
+		<data>
+		SSkeupQam2P2LgpSukGMlJmMmL4=
+		</data>
+		<key>Classes/Other/Tier 2 Intervention English, Alg1, Geometry.txt</key>
+		<data>
+		dcadNYuPCndOY5HFN4+wx35qzFk=
+		</data>
+		<key>Classes/Other/Tier 3 Intervention English,,Alg1, Geometry.txt</key>
+		<data>
+		dNht0nO1pYwm5zrx8dMu9FAq7wI=
+		</data>
+		<key>Classes/Other/Youth Leadership Development and Community Involvement Program (YLDCIP).txt</key>
+		<data>
+		IKSBxO0aZjIUzBtZKfDvAdgMVwA=
+		</data>
+		<key>Classes/Personal Finance/Personal Finance CP.txt</key>
+		<data>
+		92QdL7uxAZW55hz+E2z25iz70e4=
+		</data>
+		<key>Classes/Science/AP Biology.txt</key>
+		<data>
+		t3x0yHfE8kP86LYCJrPY4HASB30=
+		</data>
+		<key>Classes/Science/AP Capstone Research.txt</key>
+		<data>
+		EtyUz8ylq4rkYiRVuSByh95KZi8=
+		</data>
+		<key>Classes/Science/AP Capstone Seminar.txt</key>
+		<data>
+		SrtHApS0HKR9W+AABE1XwGvW+Mk=
+		</data>
+		<key>Classes/Science/AP Chemistry.txt</key>
+		<data>
+		G+SuECbUKi/3y4/cBnx0F7QGZv4=
+		</data>
+		<key>Classes/Science/AP Environmental Science.txt</key>
+		<data>
+		b0s6pqe3EQgsm7/7UJEWZFCZ7ag=
+		</data>
+		<key>Classes/Science/AP Physics 1 and 2.txt</key>
+		<data>
+		bh0WwsaztFZGlgav+Ofq+NYS040=
+		</data>
+		<key>Classes/Science/AP Physics 1.txt</key>
+		<data>
+		9BTEgMzy9wMSUetrgfWd+ZyYvcQ=
+		</data>
+		<key>Classes/Science/AP Physics C.txt</key>
+		<data>
+		kbdci5CWWxkvhsuA2Wrn0Pr3gwQ=
+		</data>
+		<key>Classes/Science/Anatomy and Physiology, Honors.txt</key>
+		<data>
+		ZoLyRvJPKfXDli1N4xgrkXNHMuE=
+		</data>
+		<key>Classes/Science/Astronomy.txt</key>
+		<data>
+		HEWP96x7ZEDuCLUbyW3pGjS++ck=
+		</data>
+		<key>Classes/Science/Biology, CP.txt</key>
+		<data>
+		QCpX9c3swdI2YqZ+fUxHzMA+/SA=
+		</data>
+		<key>Classes/Science/Biology, Honors.txt</key>
+		<data>
+		lPQGTJNlGQZX4yb2l7TGT82V1/U=
+		</data>
+		<key>Classes/Science/Chemistry, Advanced.txt</key>
+		<data>
+		GOfEi2K77Pz5QpQEz2WztiSz0L4=
+		</data>
+		<key>Classes/Science/Chemistry, CP.txt</key>
+		<data>
+		wee/MyA58hrQgOAIiiR00ZBVRV4=
+		</data>
+		<key>Classes/Science/Chemistry, Honors.txt</key>
+		<data>
+		QW6ZrQiDfn1whD1f4Dr5R7EKDuM=
+		</data>
+		<key>Classes/Science/Genetics 1, Honors.txt</key>
+		<data>
+		i7MasuQCBGw4WfbwBptz9JF4P3k=
+		</data>
+		<key>Classes/Science/Genetics 2, Honors.txt</key>
+		<data>
+		jsRSLtK/dER8t4Cqq9jCHkjip6M=
+		</data>
+		<key>Classes/Science/Physics CP.txt</key>
+		<data>
+		m7u7RxIV+xDQT8Y+Ro/dRiS4eDM=
+		</data>
+		<key>Classes/Science/Physics, Honors.txt</key>
+		<data>
+		IfHaF4Z1W2JVm8IG4nx7kxY7PGg=
+		</data>
+		<key>Classes/Science/STEM.txt</key>
+		<data>
+		7j9l+sl1AQ2BesOy7h3K4iM5q4w=
+		</data>
+		<key>Classes/Science/Wildlife Principles, Honors.txt</key>
+		<data>
+		DbUlhgfY6SDMHjVGVRc4WpfMSBc=
+		</data>
+		<key>Classes/U.S. Government/AP United States Government &amp; Politics.txt</key>
+		<data>
+		eru9cUZzgv5KvLq36PiOQJkU6C0=
+		</data>
+		<key>Classes/U.S. Government/United States Government CP.txt</key>
+		<data>
+		zQG0jbP9cjxp+1N9bqPuIBVFfgk=
+		</data>
+		<key>Classes/U.S. History/AP United States History.txt</key>
+		<data>
+		WakBMjbLMjxVCQOtJC4vwOyApU4=
+		</data>
+		<key>Classes/U.S. History/United States History CP.txt</key>
+		<data>
+		A1eFpELXT1zekP/Q3RVFNgPQTDs=
+		</data>
+		<key>Classes/Wellness/Athletic Conditioning.txt</key>
+		<data>
+		77DVMC9qwzuuzZJRM5XGH/Hfb3E=
+		</data>
+		<key>Classes/Wellness/Lifetime Wellness A.txt</key>
+		<data>
+		460Ax8v28ZtGzKnB2T6G8pzRO38=
+		</data>
+		<key>Classes/Wellness/Lifetime Wellness B.txt</key>
+		<data>
+		Rn1fXKCC8oQbt+h4EHGmkRdIdZM=
+		</data>
+		<key>Classes/Wellness/Lifetime Wellness C - Cardio.txt</key>
+		<data>
+		awyyLF6ljVDsJ08stsZB6s/b7uI=
+		</data>
+		<key>Classes/Wellness/Sport Wellness C and Marching Band Wellness.txt</key>
+		<data>
+		jN10RBIHLVl5rO8gVkjQYo2SYXM=
+		</data>
+		<key>Classes/World History:Geography/AP European History.txt</key>
+		<data>
+		TxYbq05l+aNMsoZRDjqnUGz9XPI=
+		</data>
+		<key>Classes/World History:Geography/AP Human Geography.txt</key>
+		<data>
+		AgwQA9CZYN9o4eTI8CVF81HExuo=
+		</data>
+		<key>Classes/World History:Geography/AP World History Combined Studies.txt</key>
+		<data>
+		bCyvlVcWxIGIalb0bOxUqvd+YAk=
+		</data>
+		<key>Classes/World History:Geography/World History and Geography CP.txt</key>
+		<data>
+		nVU3cXmU2PLeTtqV0v2RH2OcirM=
+		</data>
+		<key>Classes/World Languages/AP French Language.txt</key>
+		<data>
+		K01mc7UbPqySWIFjL7Ucq7xXnhE=
+		</data>
+		<key>Classes/World Languages/AP German Language.txt</key>
+		<data>
+		1Y/9vcYMIrVWVask1tTtmrCMTgo=
+		</data>
+		<key>Classes/World Languages/AP Spanish Language.txt</key>
+		<data>
+		Fny/4EB74YJ+gc84EfFHxd9pY/Q=
+		</data>
+		<key>Classes/World Languages/DE French 4.txt</key>
+		<data>
+		9CNZ/qph77XLHBmd7H2F2Sks6Tc=
+		</data>
+		<key>Classes/World Languages/DE Spanish 4.txt</key>
+		<data>
+		tBDEXATHLb/a55yMF+RmIPanAHY=
+		</data>
+		<key>Classes/World Languages/French 1 CP.txt</key>
+		<data>
+		ClzIBEQNg4Ed23HEuRA1LEaLz8Q=
+		</data>
+		<key>Classes/World Languages/French 2 CP.txt</key>
+		<data>
+		GaHn7mAzOa1zz4MVc5MX0lZ+Iok=
+		</data>
+		<key>Classes/World Languages/French 2 Honors.txt</key>
+		<data>
+		0IrTNpvSUTtDHa9JiFfQWAmznQo=
+		</data>
+		<key>Classes/World Languages/French 3 Honors.txt</key>
+		<data>
+		UTwuRbh7wfELaxtSRSLeSmYiejo=
+		</data>
+		<key>Classes/World Languages/German 1 CP.txt</key>
+		<data>
+		gGtlpUo4mxhHJHvLNc+sNSn/SNY=
+		</data>
+		<key>Classes/World Languages/German 2 CP.txt</key>
+		<data>
+		b+Zz3GXemMbgoXCn3Lh2xZ0Vd3o=
+		</data>
+		<key>Classes/World Languages/German 2 Honors.txt</key>
+		<data>
+		yzyYG00TmR+GQz8DTh//hFjGvNM=
+		</data>
+		<key>Classes/World Languages/German 3 Honors.txt</key>
+		<data>
+		C6i5aznWD/mUdmSmKlE1NngHjlI=
+		</data>
+		<key>Classes/World Languages/Spanish 1 CP.txt</key>
+		<data>
+		+7ICJXT2OQ8hbeG1sKwbq0kvD18=
+		</data>
+		<key>Classes/World Languages/Spanish 2 CP.txt</key>
+		<data>
+		XV7PgvC7kmw0+nniLeJJTUBbULc=
+		</data>
+		<key>Classes/World Languages/Spanish 2 Honors.txt</key>
+		<data>
+		t4Xuvvgsfi4fa28plie4KdsiK7A=
+		</data>
+		<key>Classes/World Languages/Spanish 3 Honors.txt</key>
+		<data>
+		FqknLipG+lpQl1I47KYiQmrroxg=
+		</data>
+		<key>Clubs/ASAP.txt</key>
+		<data>
+		Zn4zurhN/qGyfOhA08NosJ6bqxI=
+		</data>
+		<key>Clubs/Anime Club.txt</key>
+		<data>
+		ZI2FxsYhdpyQMEiuUZVZ8RsXusY=
+		</data>
+		<key>Clubs/Art and Ceramics Club.txt</key>
+		<data>
+		Gwt6+982K4APQkSExl/W9qOllM8=
+		</data>
+		<key>Clubs/Biology Olympiad Morning Announcements.txt</key>
+		<data>
+		1VcWyz0mAYQ+VGS/kEaJRSpNbwk=
+		</data>
+		<key>Clubs/Book Club Morning Announcements.txt</key>
+		<data>
+		7VsatKyBW5JxPN1IzInv5Xhye+U=
+		</data>
+		<key>Clubs/Branching Out.txt</key>
+		<data>
+		KvJYds0qm0V7N/BHJSDDS45vVLo=
+		</data>
+		<key>Clubs/Chess Club.txt</key>
+		<data>
+		X2XlEOKe5v2AqOxWJg25x0jqq7Q=
+		</data>
+		<key>Clubs/Community Connections Club.txt</key>
+		<data>
+		TPLLRlc12CU6ImRJtSpqXW0ts+g=
+		</data>
+		<key>Clubs/Computer Club.txt</key>
+		<data>
+		L2wrzA0+whGs9KFwHFfVRJDsAME=
+		</data>
+		<key>Clubs/Disc Sports Club.txt</key>
+		<data>
+		TqTtYMEx7CoPBcNOf20d7NabZYo=
+		</data>
+		<key>Clubs/FCCLA.txt</key>
+		<data>
+		Hnd2PG3UnMDl6VLDfvguLubglgM=
+		</data>
+		<key>Clubs/Fantasy Sports Club.txt</key>
+		<data>
+		ZjwcizDMf10v6uElNgFr0YzZfmc=
+		</data>
+		<key>Clubs/Fellowship of Christian Athletes.txt</key>
+		<data>
+		gHWXfeBB89l01rF/FrB2Efh76cw=
+		</data>
+		<key>Clubs/Film Club.txt</key>
+		<data>
+		YTde3eoTiRv34ZvP9iFaNffhsLc=
+		</data>
+		<key>Clubs/French Club.txt</key>
+		<data>
+		mNbnyGO86QEKL9aZSMo+GYkGYCs=
+		</data>
+		<key>Clubs/Future Business Leaders of America.txt</key>
+		<data>
+		CO9qNLi2x+UkZZh4CApflayTKU8=
+		</data>
+		<key>Clubs/GSTA - Gay Straight Trans Alliance.txt</key>
+		<data>
+		JNmulljs+B89BgmeLAjiVia9Tko=
+		</data>
+		<key>Clubs/German Club.txt</key>
+		<data>
+		0+pWmM+B40r+SDtEK8BK1OWh7i0=
+		</data>
+		<key>Clubs/HOSA - Future Health Professionals.txt</key>
+		<data>
+		t7Y08W5k3UIrHEv4rUEybFl9PaY=
+		</data>
+		<key>Clubs/Instrumental Jam Club.txt</key>
+		<data>
+		v95EVislY9qCR1l1NQiQUg2p0NY=
+		</data>
+		<key>Clubs/Interact Club.txt</key>
+		<data>
+		9YJYRlJ1/0JPgwki8csSlMLIn7g=
+		</data>
+		<key>Clubs/International Relations Club.txt</key>
+		<data>
+		HH4GB7nnUnrk1b1CLVQ+IaCoiWs=
+		</data>
+		<key>Clubs/Junior Class.txt</key>
+		<data>
+		cUqir/UrolwvMtb7mWahvBJd1GY=
+		</data>
+		<key>Clubs/Key Club.txt</key>
+		<data>
+		AOvqVb0u1BxXa0rDSXAEWXO8O8A=
+		</data>
+		<key>Clubs/Masquers Drama Club.txt</key>
+		<data>
+		/2Zapr5GBrN2Ov6GZDVza5lfQFU=
+		</data>
+		<key>Clubs/Math Club - Mu Alpha Theta Math Honorary Society.txt</key>
+		<data>
+		bcFx8U3HX0Tl2QgVNdUxmDXeaH8=
+		</data>
+		<key>Clubs/National Honor Society.txt</key>
+		<data>
+		NXiXXRp40ogDPoof/8mqJ5msn6M=
+		</data>
+		<key>Clubs/Philsophy Club and Ethics Bowl.txt</key>
+		<data>
+		le7kXhp0ZZQiPx7IKCyYaBVm53I=
+		</data>
+		<key>Clubs/Ping Pong Club.txt</key>
+		<data>
+		L2acqZ+kbY932VdY8Ud9njWGTX8=
+		</data>
+		<key>Clubs/Prom Board.txt</key>
+		<data>
+		jOGVXWmZZk/u0iYkrTPgrpNxmYA=
+		</data>
+		<key>Clubs/Quiz Bowl.txt</key>
+		<data>
+		ka87cd+auxD30S8HOkdBvozNvGc=
+		</data>
+		<key>Clubs/SECME -.txt</key>
+		<data>
+		zdEpzSC3PC7K6nqLi2UBpJH0jWM=
+		</data>
+		<key>Clubs/Science Bowl.txt</key>
+		<data>
+		cslzcUMUHvtn/TtAHXdrywy5Vds=
+		</data>
+		<key>Clubs/Science Olympiad.txt</key>
+		<data>
+		N+xk2xlN6qyQ7pU3Dc140YXwrx4=
+		</data>
+		<key>Clubs/Secret City Wildbots FIRST.txt</key>
+		<data>
+		1de/SlG5T0PEbCfnzPLu91isDUw=
+		</data>
+		<key>Clubs/Senior Steering.txt</key>
+		<data>
+		iBV7mfoaxZykw/8AoO5CrYmWoI8=
+		</data>
+		<key>Clubs/Sewing Club.txt</key>
+		<data>
+		NjRZ1rxTeXA89gVQRHQc7hojPGQ=
+		</data>
+		<key>Clubs/Ski and Snowboarding Club.txt</key>
+		<data>
+		Z427jLTO7YfJw9/iwRubH8mOKX8=
+		</data>
+		<key>Clubs/Small Talk.txt</key>
+		<data>
+		soPQEacCHGAFzBkMtMldvK3x0c4=
+		</data>
+		<key>Clubs/Spanish Club.txt</key>
+		<data>
+		YgHjI5D9H/E6k+D9Bp9vHPFGoUY=
+		</data>
+		<key>Clubs/Student Council Students at Large.txt</key>
+		<data>
+		Y31jPClUOAGkcqVXABDKsA0sYrs=
+		</data>
+		<key>Clubs/Teen Contact Care.txt</key>
+		<data>
+		wqJ9aU9SmfYSF9/xhWhrSz5fNTI=
+		</data>
+		<key>Clubs/Tutoring - Evening Math Help.txt</key>
+		<data>
+		QAT0CcXAwUd45d0ElCKvB7WNjUs=
+		</data>
+		<key>Clubs/Tutoring - National Honor Society.txt</key>
+		<data>
+		cA30X/SOp+lr0WSmeCDY03Avh5s=
+		</data>
+		<key>Clubs/Wildcat Pride.txt</key>
+		<data>
+		WRG8e2T0g7iv4i/A+w9tCOu5v40=
+		</data>
+		<key>Clubs/Young Life.txt</key>
+		<data>
+		yfyGkxQKKDPMMguC7+Z6/VpGxqE=
+		</data>
+		<key>Clubs/Youth Advisory Board.txt</key>
+		<data>
+		sy/gR+DdgQCo4D5XKhflJD6q5y0=
+		</data>
+		<key>Clubs/Youth for Christ.txt</key>
+		<data>
+		RdpKUgjZyhvhV6i0L2RK6EI5OIw=
+		</data>
+		<key>Clubs/YuGi - Oh! Club.txt</key>
+		<data>
+		+f5Vs0iDx1Y2h89iiLViU2vp2Cg=
+		</data>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<data>
+		ZZA/QSaMUhEaQeB/a6o81h5HiRQ=
+		</data>
+		<key>Frameworks/libswiftCoreFoundation.dylib</key>
+		<data>
+		FZNUesSIbXVZIwbnX1arRnZ0rmI=
+		</data>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<data>
+		J7H35SWqHYHEBK67tJotUljH8pw=
+		</data>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<data>
+		Z59SlZGfyiwIdSI9qcQlBq0Mbag=
+		</data>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<data>
+		m3yYQwODriMqJJ5V9RCwI5p1Pmc=
+		</data>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<data>
+		wWiVeO3b1z0xDrf+XtR+EYiNeME=
+		</data>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<data>
+		3rbIhMVOTA9yGiacdarAlBDvcWY=
+		</data>
+		<key>Frameworks/libswiftMetal.dylib</key>
+		<data>
+		g8saPnzVCVGVCD3y0QbxJAYUvGQ=
+		</data>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<data>
+		p9fenV0zuBDW9fXBMvVDE+6/1M0=
+		</data>
+		<key>Frameworks/libswiftQuartzCore.dylib</key>
+		<data>
+		+dCSvdxDHWrW4AVq53ZJ4To8XrY=
+		</data>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<data>
+		x0ipQNNuQxJ9m7c+dBIJNjMsOzc=
+		</data>
+		<key>Frameworks/libswiftos.dylib</key>
+		<data>
+		NlMmYkG2Hq9DwhNiUIOyQXeXvHI=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		za72lNZeYLw+hj7WUxUPm0a0Ksw=
+		</data>
+		<key>Main.storyboardc/0PL-iD-GhE-view-MdK-qv-pUr.nib</key>
+		<data>
+		yepOBOtZO1BFJuQ0Cm5Bp6E+sSA=
+		</data>
+		<key>Main.storyboardc/2KR-4y-G1y-view-5BE-Uf-9EK.nib</key>
+		<data>
+		09RB/mUiON6zuzFA/00sQEJ4T28=
+		</data>
+		<key>Main.storyboardc/2bL-yE-Ttb-view-EMk-cA-2Ip.nib</key>
+		<data>
+		ZPrTV1MkmzwZXFrEu8NSSbR09eM=
+		</data>
+		<key>Main.storyboardc/HOE-RT-Cfu-view-4Bh-h4-wf1.nib</key>
+		<data>
+		Hzo9i7uwU3Z3N/+So0/i8UxApuE=
+		</data>
+		<key>Main.storyboardc/Info.plist</key>
+		<data>
+		j0mZYsqXIEZklbOj7inW3aJBtaI=
+		</data>
+		<key>Main.storyboardc/Kl0-rH-07y-view-Zn4-61-OCX.nib</key>
+		<data>
+		NcrVlM8e2GFBGBjbe5JY4lo2q2E=
+		</data>
+		<key>Main.storyboardc/Lws-K0-euf-view-BB1-Jd-nKy.nib</key>
+		<data>
+		okrTBHw8KLEz633N6JoTuc1CwVE=
+		</data>
+		<key>Main.storyboardc/OXo-xx-YwK-view-WXz-DF-bF9.nib</key>
+		<data>
+		yzQi3tJ10PWTezTiAF3CVpwL0vk=
+		</data>
+		<key>Main.storyboardc/Qkm-Hu-mhc-view-3Zt-sQ-toI.nib</key>
+		<data>
+		TRE5URU6qTMYILATADQ78NMLF38=
+		</data>
+		<key>Main.storyboardc/UINavigationController-Buf-ws-C4c.nib</key>
+		<data>
+		mu1pF28rep/PA66WQfuCGvxUd1k=
+		</data>
+		<key>Main.storyboardc/UITabBarController-49e-Tb-3d3.nib</key>
+		<data>
+		1842k7R0bZfuoUxrEG7sGHkcpJo=
+		</data>
+		<key>Main.storyboardc/UITabBarController-Gad-kg-maT.nib</key>
+		<data>
+		c9MWHAl7ytGllvq6zQl1JGeYJWs=
+		</data>
+		<key>Main.storyboardc/UITabBarController-Rjw-2P-6Tk.nib</key>
+		<data>
+		37u+qVYyI6PPk1THPpk+s88isRw=
+		</data>
+		<key>Main.storyboardc/UITableViewController-Lws-K0-euf.nib</key>
+		<data>
+		utRp3ZBNCP8lLiv+W53VgrFM7vQ=
+		</data>
+		<key>Main.storyboardc/UITableViewController-bHs-Md-doF.nib</key>
+		<data>
+		ygqmaJJUT5nttgQSlYXvRl8d2K4=
+		</data>
+		<key>Main.storyboardc/UIViewController-0PL-iD-GhE.nib</key>
+		<data>
+		rd/6m4sO2V64xjLohSLQtGHdfRU=
+		</data>
+		<key>Main.storyboardc/UIViewController-2bL-yE-Ttb.nib</key>
+		<data>
+		UJRnAfVg/OKMXDHxmIpPk7Bfpps=
+		</data>
+		<key>Main.storyboardc/UIViewController-HOE-RT-Cfu.nib</key>
+		<data>
+		rysRSNK02/ruHchUU25pn+iTTxs=
+		</data>
+		<key>Main.storyboardc/UIViewController-OXo-xx-YwK.nib</key>
+		<data>
+		Y3GjUWVj2SACpiNMKw1cZZqRkQE=
+		</data>
+		<key>Main.storyboardc/UIViewController-mL4-YU-90G.nib</key>
+		<data>
+		Kd3UGkHPEQpXl7GOAPDmw5XY8Zg=
+		</data>
+		<key>Main.storyboardc/bHs-Md-doF-view-oxJ-fg-ye7.nib</key>
+		<data>
+		fODkRR+IKCtqGrXD78E6dNj6ROY=
+		</data>
+		<key>Main.storyboardc/cK2-52-0rq-view-8pJ-H6-ZEP.nib</key>
+		<data>
+		8UXTIubHZad5Jp3RgW1t1mzy3gM=
+		</data>
+		<key>Main.storyboardc/mL4-YU-90G-view-qsm-sg-cwE.nib</key>
+		<data>
+		GN/0u44IZkdLB3+NzzSzmJ/oNL8=
+		</data>
+		<key>Main.storyboardc/ppd-vT-6ok-view-bIy-if-rDM.nib</key>
+		<data>
+		krhr2hGLAzZafw/3/Z2Uuo080mU=
+		</data>
+		<key>Main.storyboardc/rNg-Xl-Tlo-view-k2B-DE-rjI.nib</key>
+		<data>
+		ExK95PBpfiqjXzf27scSefiOpc8=
+		</data>
+		<key>Main.storyboardc/t4X-SQ-74i-view-0LA-OB-Jsp.nib</key>
+		<data>
+		siu2RKrBMpThAeykNYybjFLZsSE=
+		</data>
+		<key>Main.storyboardc/uQA-dA-YOe-view-FUu-zX-tlX.nib</key>
+		<data>
+		poiZE+GXhVdGO0fBVbFSXnOsAdA=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Sports/Baseball.txt</key>
+		<data>
+		0nf+9mJn/ycB/H46D0CjznBVWcI=
+		</data>
+		<key>Sports/Boys Basketball.txt</key>
+		<data>
+		61W9bJIkfajB4O4dLoZMft1pRPk=
+		</data>
+		<key>Sports/Cheerleading.txt</key>
+		<data>
+		ZzWJNQYtZe47BG8nF3WZZdEB2hE=
+		</data>
+		<key>Sports/Cross Country - Boys &amp; Girls.txt</key>
+		<data>
+		8+RohoIFV09RF576wiDGdacxnPE=
+		</data>
+		<key>Sports/Football.txt</key>
+		<data>
+		SNnRtPYOZPRe+WvM4xI9z9FtX/M=
+		</data>
+		<key>Sports/Girls Basketball.txt</key>
+		<data>
+		/ESCuAjHe0mDUdmo1Qs63dlQ0j0=
+		</data>
+		<key>Sports/Golf - Boys and Girls.txt</key>
+		<data>
+		qg+oDZjhMLqldduHNPqJlbhYzfM=
+		</data>
+		<key>Sports/Soccer - Boys &amp; Girls.txt</key>
+		<data>
+		1I7SwBjRtyryiR9CQ+v36JbvZZU=
+		</data>
+		<key>Sports/Softball.txt</key>
+		<data>
+		0bpTpFkpUvtKSxlOmm2tX9VJ0GU=
+		</data>
+		<key>Sports/Swimming - Boys &amp; Girls.txt</key>
+		<data>
+		tO6hPA427MkQi6+sNmtDd5azGXA=
+		</data>
+		<key>Sports/Tennis - Boys &amp; Girls.txt</key>
+		<data>
+		H7gFwsJdRA+ods+xyu5X12YsgoI=
+		</data>
+		<key>Sports/Track - Boys &amp; Girls.txt</key>
+		<data>
+		srOJHmjhjp2jAKFc6UEgh1MFWUw=
+		</data>
+		<key>Sports/Volleyball.txt</key>
+		<data>
+		yW+iZUf96vA8569ACnA1ADYY3jo=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		oQLgfHH9sqTfHzrsuOwg0HvjlvI=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gJv/yGuOTs+NTQhmi5j/1ZD7MsZyR667ixOZ91bS4Lk=
+			</data>
+		</dict>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JWm0HM4mmTLhsSlf+dGd7PeF2Ei6eU3c05nKw8q6M4M=
+			</data>
+		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			46B1dCuKY57xoFb5yCPEHrO3g09zknc7ZTt5ASPMzE4=
+			</data>
+		</dict>
+		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+bcsbtvHvi3j14/gwex2ZwXf8yrORWpdXDzZur5tN+M=
+			</data>
+		</dict>
+		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HyVdXMU7Ux4/KalAao30mpWOK/lEPT4gvYN09wf31cg=
+			</data>
+		</dict>
+		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N+cgAZ82vs0B8Ci1db8Kax00ATuBUhe4x4a7kLfP9B8=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Accounting I CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wv6ASP50vBGmOdSYIlbQLkrKrHbtiIBuLPd7Q3CSzYo=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Accounting I Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bu5+R+6Aoq/BjTs/hUcK34Bmq51+kVz3hnJgWuIIohI=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Accounting II CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ukBenjuCYrQblDPvuZ8OjebjEIDnYr8p150lmvre+LE=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Accounting II Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wtDowo4Ih71z2JaY09nXbu/Sm6u1nyCvA+S/IBQYt3o=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Advanced Computer Applications + MOS Certification.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4Uv0hBYXWGQS+jvzfp6jwdswxn0ge5BtiqcL6lVmAJg=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Anatomy and Physiology Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Mjig1k0g7u68jCMZZXV8t1hEMGXIFHaxbYlTs4E87q0=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Automotive Maintenance and Light Repair I.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			42GTIZt7X2fB4rx4IY3FKwKmHWC4+5+YxwK9Vm3fvI0=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Automotive Maintenance and Light Repair II.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h0+zubkKy+diqY0s2+dQ2trLg6waN2y3MZGkrW4yV2I=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Broadcasting 1.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vdHSWYWjIVd8wTdj1//ywzzrgsh0ad30Seqt/2rp0rI=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Broadcasting 3 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QVKJRbsHklqMvjWPfcQ8xw7E6OURHyuKgS/W75lMcfA=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Business Communications.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/RwvyMkiwWGCar8GgpQphGX5Y1Pi7F8YXCXVyLK5fOo=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Business Management.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iXy6UbcUB5oCzlZsmSiCYb4EibnMV5383ASWqO4jt7Q=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Clinical Internship Honors and Pharmacy Tech.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V3jQtWSZ+bjbPWs0K80+oXa98IISNk66xAIfoMP9sIg=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Coding A.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vndAL3dDXIlF7ZCuQ+ljwuYaxMQCPxQQPC59J2eSGfc=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Coding B.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pNGc579jIgYPI4fSLnpv+tud3iQYrl1VRp16UNGnJZU=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Computer Applications A Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iSwYXJ+V4TRdiVAh9NH4BA+giAOSqB5XTothuyD7X7A=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Computer Applications B Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XmPbWZveVxfirDsDEOVzpYSwt+UF+z5oj1LddZW+RmM=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/DE Accounting 1.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C44c0flXyaGUXJsxLbVwee6YUAThdmB3hRBqAy6guD0=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/DE Accounting II.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WFjt4jPVnGOQZEh7ScMvsI7WmwOMFqHxrgRe3oKV5ww=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/DE Advanced STEM Applications.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EQ/vO7tViw3HH1tWqbsX0Qo1i1zauV6IuCtepRydnz8=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/DE Automotive Maintenance and Light Repair.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G/Yp6IffSl8/UX94d0zBz1LBvWtiOrEQMOsFZeH53H0=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/DE Clinical Services.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PwQHdpyQhMjUm5WjqUI/ea68IJ912IJ6K5ng+95Je2k=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/DE Early Childhood Education Careers 3.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pSQ9iLO66KmAomlNoN2xEMmgHrDzG6Pr7rOBPixC1pg=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/DE Robotics.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1TApD9ZUtVSv4RgSePs+0OfEmu8MBHck50Q4Fh+3hkY=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/DE Welding.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qPa18qj4O/CSCTK/le+mM36F2kEObD+4psjZOhlIl1c=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Digital Arts &amp; Design 1.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D8G9v+unY56V+sdrSGX/khNhOfTzhJP06E4JD25U+vs=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Digital Arts &amp; Design 2.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dpy7r/5XofFvxAJhueBJcelCdCF7pXmAwoysWyivSXE=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Digital Arts &amp; Design 3.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+qsWzYoUuzx2CuzDCI4Peich04QBPzM8tjLcCpYv+sQ=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Dual Credit Broadcasting 2.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c06DERFtiGYNGC9H1+aCBeTE3zq+6YvqoqLTD4DFdjo=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Dual Enrollment Nursing Education.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a4UMBWE9Rw2W08G58swuVG2ZI3M6kuULejKBC04qwnc=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Early Childhood Education Careers 1.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LaVnyeFsxwv01TqXb4SCIj8ru3ybVw19iADHnuvOb5k=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Early Childhood Education Careers 2.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xrNxGg8SVyKKH45rdfqHWknSUlz/am9wLsUly5z0lvw=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Early Childhood Education Careers Work- Based Learning and Student Teacher Internships.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bseLouUKAtOzb9i/2Xx4FRL9p0h7TylXsf9Y5Nm6Ww4=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Entrepreneurship.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Os7RkQ/tYJA2Uuawdi8mXy/rgHbewvcBqWnurZNuAdo=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Foundations of Technology.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n8Xms3Zhz2nthEkygYIpHTFnElALgqnxED1nEp97c1Q=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Introduction to Business and Marketing.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i5CoOPZmHCd0VpJO3h/SReCO8zwFxHjt0mdMXTNpCWg=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Marketing and Management.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nWULkqj1NSbbwRO8A71ji9N/HWGDXZAd5QtfwiskOJU=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Medical Therapeutics.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UkopUGTpxAb5pdAor6F7SVwLqPWsllQa5eeX3RSjVDU=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Naval Science 1 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ktSXNSUvHv1tCry8y0HKPbNNvkN77tAjN1jC4CSYn1k=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Naval Science 2 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0b/5vvLf7pkn2T/bS9cw0At5yIAydXk70WEsVq7KzCQ=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Naval Science 3 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TgTT2eqUzpo1NVDn0sOsYMlLWjSJHHEqTXMy/qZTZic=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Naval Science 4 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ySeAX5s40PBLxz9/nvoHrY+G/cHaX4HrPgX1FLJPkmQ=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Rehabilitation Careers.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w59KOdGbuP7xz/NDvGFSdkyrAZxd5JU0f8M6GGgWMPM=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Technological Design.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R1oqaRYWrMkJrVDxdp1blPp95S+6fnbxVtwhGy8IkxY=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Virtual Enterprises, International TM.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DQTOXuCimkNMuz9aOv5yK1eIPYL4hlrg/ais7zCtQHE=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Welding I.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sY2XJJTrpTgoBVmu57X/b47Rr3H1DRe5KGZ3hNbryos=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Welding II.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mBZBP4r1pYQ9dJLs0cPOgk221z4FNZQIiqhWh6D3rbk=
+			</data>
+		</dict>
+		<key>Classes/Career Academies/Work-Based Learning.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HtPOO+Ll4d2gagsqHnXmearKIpoI32/XygrA3U/kyPI=
+			</data>
+		</dict>
+		<key>Classes/Economics/AP Macroeconomics.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3BU9h2RKRgMkS8PhEjPw4HYsCOw8MdyantcHsSDi8pc=
+			</data>
+		</dict>
+		<key>Classes/Economics/AP Microeconomics.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tEBRw2wa3jmoWejXeEI+xDI6RrQ/g420I3fvU1LhMcQ=
+			</data>
+		</dict>
+		<key>Classes/Economics/Economics CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IsmEJstinNTasisPlxbfIui7tTZk2pqcTy1hxqxi1jo=
+			</data>
+		</dict>
+		<key>Classes/English/AP English Language and Composition.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ao/u03UfWaulotOAstu88i5bnXNvPhIR9pczaJUqoRw=
+			</data>
+		</dict>
+		<key>Classes/English/AP English Literature and Composition.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RrdM3Rx02HBkHPG4xkb+axtokQyhUeACHlYp59mppqo=
+			</data>
+		</dict>
+		<key>Classes/English/Creative Writing.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jhV62ZrUki/vo+0eFJY7KXssjOY9F9H/jJU0cLRJfVs=
+			</data>
+		</dict>
+		<key>Classes/English/English 10 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QPYCXPcZw8yT1GHGvZgBppoM0OrEfeWwp77LrxX1PU4=
+			</data>
+		</dict>
+		<key>Classes/English/English 10 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t3YEssveGPd5elSLdnz2QiHeQQEpyPgTG8mPSw4JiMw=
+			</data>
+		</dict>
+		<key>Classes/English/English 10 Honors: Combined Studies.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BXjKIXJVO0TwC4h8yzFNXkVFYXh+tTIbTqNma2cFnt0=
+			</data>
+		</dict>
+		<key>Classes/English/English 10 Workshop.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PeLqW1tKigW/QigjjX0Tpx3EC1YOPOTEayDBRG2KsyE=
+			</data>
+		</dict>
+		<key>Classes/English/English 11 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fleSG1WOwhaVtjOeLhQhJKoBUsDagXoDQX3qOm84bHs=
+			</data>
+		</dict>
+		<key>Classes/English/English 11 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c8z/6Co7ElrOKFK+6JDfbAfZF5PDjyCr0cCxDnk5tE4=
+			</data>
+		</dict>
+		<key>Classes/English/English 12 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZNQzliJzaxyRDqcvWbZKZFCipVIOovxqOAY7u7/wQT0=
+			</data>
+		</dict>
+		<key>Classes/English/English 12.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rTf2Gwdr5mSFvZA2W/dhAxEX6BY3abTaRpZ+m/0p0X8=
+			</data>
+		</dict>
+		<key>Classes/English/English 9 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZKqHmrqKb64xwjkOIoqrSRxCLCfAjaNosEgqglRZoKQ=
+			</data>
+		</dict>
+		<key>Classes/English/English 9 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zvbZEWZhxtP3ngWMO1hex4x2A/0NaphAVbhnH8cySmk=
+			</data>
+		</dict>
+		<key>Classes/English/English 9 Workshop.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NaHXr1C2ZE5G0bQUcrMYyqJDJ9Al8p3rXWC7j08xz3M=
+			</data>
+		</dict>
+		<key>Classes/English/English Language Development 9, 10,11, 12.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HnIdtzb1MtO/kE+EBQ//Yll4wLQew4Vm+k0ZJbZgJcc=
+			</data>
+		</dict>
+		<key>Classes/English/Journalism - Oak Log.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9S2XlZFyoHYG+OOn7y/TjiM5k1IFtAO0F0ZICDqghlo=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/AP Art Studio.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UbPHODaNSOQz8ViHUtvJaATgIOsOE04uMZ89bwgXECQ=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/AP Theory and Harmony.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X1+yHd7VVj72C2ZbUWI7LTE/v/xyjJYJyv0w1VeJF7M=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Art 2-D, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V0iQkZI3TNNeI7jNS7tSj8pKPAACqEiEb3EQsdQ/Fe0=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Art 9th Grade Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4uTdsIrtacFLExTrB76f5qOKLGFRLh2D79pI+wcs6FQ=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Art Foundations.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y6KM8MvVgV0t8HKh9rNsWH4trEe3Swe7yzb2+bfCh+Y=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Art of Photography.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XHM4gbRHHBg2o/tbkFRl+S7SB1fBWngn5f4lLefhFAs=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Band, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MGVb0lk96Fsl43Q2lcZ5G0cLmcEHqxyXJ8iSbiOrGMw=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Band, Regular.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K2K445iQmygHnRzOsojcK5ZGXEum1JYV3yn80GlWKhU=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Ceramics.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MIt8N+/WAn8yLuxekNQoCJlpcSyeNArEkShE8CVWyaI=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Color Guard.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ghdFKDSxwgF3xd2YP+ZfwJ98nxQwvYzFfIbjGHPgftQ=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/DE Ceramics.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S9QRDDvlaA07aGe13k4KDxHHiW2UJH7ZugftgLvTN+c=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Ensemble Choir, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MqKrL58xThu6Nc3KoDTmuCZ/UaiA2U3kpn4XtJDEYVE=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/SSA Choir.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7LF5SemkXkKnt32hNLaEl2j/JveeUkv+mxKbhIf91v8=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Select SSAA Choir.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mKi1/zsxaMyZ76FSdguF1HwfzXHzGTVtYUmcCxiIU1w=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/Select TTBB Choir.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T4PU3ngW9rtj/OGBXqxkaIt1kJqUSBAMo5XwqdCOFss=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/String Orchestra, 9 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WVwblEBIJfMbSDujIJgfk+NClESaMXyxJfK3I3JToBg=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/String Orchestra, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aWReiA2AS/H0gHTX/MVHnPaJ+MEt9QylPjFSLFR84Bc=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/String Orchestra-9.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zMqQ8tSCIWREMSAMLsH7b7j4v5s/6zwEEGOQZIn89fo=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/String Orchestra.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KzEvw7b3t5ZVSMLr27s+5IDbZ90JC55INbLCk1Vo9w8=
+			</data>
+		</dict>
+		<key>Classes/Fine Arts/TBB Choir.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ONDjdruBu+5/T5ENT68SOenJy1G2NDdaGCdhbPFbBHg=
+			</data>
+		</dict>
+		<key>Classes/Math/AGATE 1 Algebra 1 Advanced.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f7tCAcdWgROswBLlagEk212k+mEGxB8VvYlLSDD3HtQ=
+			</data>
+		</dict>
+		<key>Classes/Math/AGATE 2 Geometry and Algebra 2 Trigonometry Advanced.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2wootksgwBrQywLQSofloQW5rNU7uUYiWCMoY/ZFiJg=
+			</data>
+		</dict>
+		<key>Classes/Math/AP Calculus AB.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s9bjmf9RDDN371OJfXo9zn/sROeNhXVJCLAPnOqUHsU=
+			</data>
+		</dict>
+		<key>Classes/Math/AP Calculus BC.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T13ZBSwCEuqm55/U+BJuD4c9Od7swTthj3kuE2SmuRI=
+			</data>
+		</dict>
+		<key>Classes/Math/AP Computer Science A.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xm59C2lYa4WE6WJ7PmTTpW2DNzLuYUN02hk1XyFCEWI=
+			</data>
+		</dict>
+		<key>Classes/Math/AP Computer Science Principles.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XPZFhLXSKBtHn9R7GVeWnk3wbiXw3BbKvdrikI9RXko=
+			</data>
+		</dict>
+		<key>Classes/Math/AP Statistics.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OMkMpJyq2UiRgDgBQreeYTnNevGwIEo5OFz/Cbjk8Ws=
+			</data>
+		</dict>
+		<key>Classes/Math/Algebra 1 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4rDArV1x03fPHch86AHIFni3hpIeBT5Ijd+JjZxaxY4=
+			</data>
+		</dict>
+		<key>Classes/Math/Algebra 2 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rq2gcKooYf/nOL7N5CPJ+irVtTIZoaYjj7Z8Y7ClpOs=
+			</data>
+		</dict>
+		<key>Classes/Math/Algebra 2 Trigonometry Adv.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kUaNIDCFu50B1rmB/iXpPKBUysdiSff2KHbWL9V1CL0=
+			</data>
+		</dict>
+		<key>Classes/Math/Algebra 2 Trigonometry Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CEio4+jOzofmNFz2LXjdXcrWm3LSH6xrHGg8FDQALuA=
+			</data>
+		</dict>
+		<key>Classes/Math/Algebra A CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FEGR9YqgcvF9Qpe4X2Z/3aRHcY8QX4wYOaMaq6W6Mv0=
+			</data>
+		</dict>
+		<key>Classes/Math/Algebra B CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vntMqvXa1qVr1KlQQd77hFa4sR/ry8ZfK08pTaBWbUA=
+			</data>
+		</dict>
+		<key>Classes/Math/Applied Mathematical Concepts.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rSgzOpjZVn8AVoMSyBzTQaarXrytUMijSXzRLX4ephI=
+			</data>
+		</dict>
+		<key>Classes/Math/DE Statistics.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h7ptl/RLY1bmtGffdSdgdN+6Yiw7rOEvW1jIVjSm9pM=
+			</data>
+		</dict>
+		<key>Classes/Math/Dual Enrollment Differential Equations.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IVAVaEPFdTVgTyunzWQty9XTzBsMV3BJYyPCa8roxLc=
+			</data>
+		</dict>
+		<key>Classes/Math/Dual Enrollment Linear Algebra.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VPOAYFoZVlxSsbnBLtV2m0AkhoNtr4PHvDuPGqxfRvo=
+			</data>
+		</dict>
+		<key>Classes/Math/Dual Enrollment Multivariable Calculus.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sy1zHSxRwfN2td7wA7UAkFsvd6bjP4dSrroa8ExHhuU=
+			</data>
+		</dict>
+		<key>Classes/Math/Dual Enrollment Pre-calculus.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NE0bj0nt3WnjO0TGscKkJtaAMsK+KFrolI4dcbhmStE=
+			</data>
+		</dict>
+		<key>Classes/Math/Geometry A CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ECHCqMz1AHAQjeSBg27s/qUNzdGFf/Ct5mslg9qMcN8=
+			</data>
+		</dict>
+		<key>Classes/Math/Geometry B CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JgtH6e4AlJF7KVxRV1SCJTupFUs9mLBV2akLqlFclK8=
+			</data>
+		</dict>
+		<key>Classes/Math/Geometry CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CjpupkAo1GT2RijwK0Px2ItBMbM9KiNGz2R3UJUlNDU=
+			</data>
+		</dict>
+		<key>Classes/Math/Geometry Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D/umfy4MRystPU6ra5zUhu8befPJBKm53tFmbCdZc/Q=
+			</data>
+		</dict>
+		<key>Classes/Math/Math, Science, and Computer Science Thesis.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/DLmqMb2LYsvXDuBY/WNSHPpDR6i9AO+oMQaKAWKjRg=
+			</data>
+		</dict>
+		<key>Classes/Math/Pre-calculus AB SWDC.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5NKZ3Udi8qmqd42jAop7z2UYJBhSXaLWWNwiaiXv5EA=
+			</data>
+		</dict>
+		<key>Classes/Math/Pre-calculus BC SWDC.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qgQ92m3Ua0BMby3MiyiQAlwquXEHrzTzZa4C6aO/v/g=
+			</data>
+		</dict>
+		<key>Classes/Math/SAILS Algebra 3.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lvdD2ZY3MJ8rSjIc4kUFxJt/OCjiixBjahEcfpNmbfQ=
+			</data>
+		</dict>
+		<key>Classes/Math/Statistics SWDC.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t96R3eqqmjky90oUovHjfm411jZBXkJHeaWWbcusK5E=
+			</data>
+		</dict>
+		<key>Classes/Other/AP Psychology.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9QtLr4C8sNN7+xTsOcTqLCurECEimH4mkTcduJLgq20=
+			</data>
+		</dict>
+		<key>Classes/Other/AVID 9, 10, 11, 12.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/3KubXO3zn4YNgiyzbNqmgVQLt4/92jOcVAZfJ5DbIo=
+			</data>
+		</dict>
+		<key>Classes/Other/ESL Support 9, 10,11, 12.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RwdHtUyeojKL7jGStlog5L89NGCY69yzU9SoAW0Iv3Q=
+			</data>
+		</dict>
+		<key>Classes/Other/Guided Study 9, Guided Study 10-12.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QprvqPVZGFKIsETGHT289LQ1oMDq9uK7btyOtpLcwE0=
+			</data>
+		</dict>
+		<key>Classes/Other/Lunch Study Hall.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/QfxOtQWuiJu7hGRQDGfp16pm668/LXDDxfYlh9rFVc=
+			</data>
+		</dict>
+		<key>Classes/Other/Psychology CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Cvhv/zY1k53D923kFwOaeHzOhO96T1q6pl8/eZAKsHM=
+			</data>
+		</dict>
+		<key>Classes/Other/ROAR.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qlJdPTZ8MRa34e/48X162uodNz5KwXzbRtJYeu7Odbs=
+			</data>
+		</dict>
+		<key>Classes/Other/Service Learning.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			08wJ0nWp92OYV5noF3qkAkpvozb5hDmXn01FEJd5SDI=
+			</data>
+		</dict>
+		<key>Classes/Other/Sociology CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lvOduOGhBvaLfqocmo0JzZ1inwY5+o/2uAonGDhPf9A=
+			</data>
+		</dict>
+		<key>Classes/Other/Student Council.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rpJJdGoWrocmLjgC/UMvnXmB3iSYgGDFsC9tQQHY9To=
+			</data>
+		</dict>
+		<key>Classes/Other/Tier 2 Intervention English, Alg1, Geometry.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9RiK730cF4Lo/5CF4wwIJYSQZ1VLzm0OPxhUjgwIBF8=
+			</data>
+		</dict>
+		<key>Classes/Other/Tier 3 Intervention English,,Alg1, Geometry.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u157udRH8OJrs67vPB8OaqjHldO7F76nLg4FqdxgcIQ=
+			</data>
+		</dict>
+		<key>Classes/Other/Youth Leadership Development and Community Involvement Program (YLDCIP).txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ndmFyFbas6rVKkBAGAZOC/yJvL/gKaYXjpoFRA1l50M=
+			</data>
+		</dict>
+		<key>Classes/Personal Finance/Personal Finance CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+hZy3Kfako9GRBIOeca0hn7Ntc1yBhqXrH9VVUa89SM=
+			</data>
+		</dict>
+		<key>Classes/Science/AP Biology.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JeTM2jRn0s9On7IXRUJEx5js1KPhVv8/9FEFi2tt5MQ=
+			</data>
+		</dict>
+		<key>Classes/Science/AP Capstone Research.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RVDBIrajRjcsOjksC/NDcdLwJwIJywH1ZYwpRhFfWB8=
+			</data>
+		</dict>
+		<key>Classes/Science/AP Capstone Seminar.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7UY21zaqnykTBUnDfCEYYiaIdDZcAvZBoUMwSf50yuA=
+			</data>
+		</dict>
+		<key>Classes/Science/AP Chemistry.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bKLrZ15C74eSJtUBSAaj7/QgMMdkmqy8C/+3NtJsyKg=
+			</data>
+		</dict>
+		<key>Classes/Science/AP Environmental Science.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oarLJiwWsCQYFB3oKgKIvuNPOb+e+3spfCZ/NGsK1Mc=
+			</data>
+		</dict>
+		<key>Classes/Science/AP Physics 1 and 2.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qkVxuIQohuownd030K+9LN8FYxC1Xx3nT9+x6ZtKB1E=
+			</data>
+		</dict>
+		<key>Classes/Science/AP Physics 1.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			arwMbBwVQ5xgjVJiH2W69fyqZqNvOcfL+5Obbv35JHs=
+			</data>
+		</dict>
+		<key>Classes/Science/AP Physics C.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k2Mob0jLiSC69OUmA7mJOUo+FNANmiD+USE2bq+K7/g=
+			</data>
+		</dict>
+		<key>Classes/Science/Anatomy and Physiology, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jisY2RWAlsSOrkF2u0CZZJWgP5SFDnYpI2DFdVj6ncU=
+			</data>
+		</dict>
+		<key>Classes/Science/Astronomy.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TBFkjRp+YEdvbR4+DhcelwRqFxIqu/nbyrZIgYUuTfw=
+			</data>
+		</dict>
+		<key>Classes/Science/Biology, CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hMGNw3AbYH49FNohe8Gi/uCX0FTAuz3UpDHafN3T3/I=
+			</data>
+		</dict>
+		<key>Classes/Science/Biology, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XPLy3UIzjNAzaNQXc5ErjeQcJZ5m132XQEAFPlgYWQI=
+			</data>
+		</dict>
+		<key>Classes/Science/Chemistry, Advanced.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QnWPFfIrLemxA7F2S7Gz1q/TsqaVsD9ecIYfO9PNvuU=
+			</data>
+		</dict>
+		<key>Classes/Science/Chemistry, CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iP/IyO7v5+htlOi7tSWRvxtn/MLDj4VXhJndxc4IjgQ=
+			</data>
+		</dict>
+		<key>Classes/Science/Chemistry, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NL2ZcnlgVIqcL5D8WWZxjl/wqs798NF6ua1hwvq3V7w=
+			</data>
+		</dict>
+		<key>Classes/Science/Genetics 1, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eeRxhnOyKbcVr+0uYxZtKgb3YBgvJTgE7+qLZynzDWU=
+			</data>
+		</dict>
+		<key>Classes/Science/Genetics 2, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SjSEcmxAvZfcABmr3hwuQFgQMoh874lV3WpmMH5fTQc=
+			</data>
+		</dict>
+		<key>Classes/Science/Physics CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Iqg4rQeOTV6X5kYVTBdh4unxFW0wOKCuh/duf8MoqzI=
+			</data>
+		</dict>
+		<key>Classes/Science/Physics, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AUwNOBTPwexbQutEUrSwhYq/hILrdr54xW4/WXX0ZCA=
+			</data>
+		</dict>
+		<key>Classes/Science/STEM.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FyLquMnhCMFNogCZmtsNZjrxdtEKDaclpRNO3f0LVYI=
+			</data>
+		</dict>
+		<key>Classes/Science/Wildlife Principles, Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xUmAzpE4kaRYMMJzryWVp49S78/o/lfrxaZs4gUCGo0=
+			</data>
+		</dict>
+		<key>Classes/U.S. Government/AP United States Government &amp; Politics.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W8eGPNlHxrj76dxHbFe+n8egmSyIUqNvfxV6icPr8Hw=
+			</data>
+		</dict>
+		<key>Classes/U.S. Government/United States Government CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pOi/ylHtKJHG6e/Jdi/t6+lp8A7DSntvdEdBXwKeQsY=
+			</data>
+		</dict>
+		<key>Classes/U.S. History/AP United States History.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c+jywl7HvTyNerOVWI7cB4UKhHHbheiYZusts6Ko6hU=
+			</data>
+		</dict>
+		<key>Classes/U.S. History/United States History CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cw2hECp1TbUToXnG99MmgdQqYJbXl3M8fujQFAOx5mQ=
+			</data>
+		</dict>
+		<key>Classes/Wellness/Athletic Conditioning.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bD2aQpfNqVs9qymWgzpxbbt7PxrFBAwPMiRWzF1iWtg=
+			</data>
+		</dict>
+		<key>Classes/Wellness/Lifetime Wellness A.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bhmouix8REodsbChne8Tiu6schaeie5ZGdCvPRAJ9OI=
+			</data>
+		</dict>
+		<key>Classes/Wellness/Lifetime Wellness B.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y4+YQPIbHpMrBgsG9D6JeXmjV+nuHlYmUkoJkAGz7M4=
+			</data>
+		</dict>
+		<key>Classes/Wellness/Lifetime Wellness C - Cardio.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			inqONMkGsdCln5xcbbOEuvgBgMGMVxIa+pkfHFIp9L8=
+			</data>
+		</dict>
+		<key>Classes/Wellness/Sport Wellness C and Marching Band Wellness.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EM0sI0jiBPrBtWSwid3vug312KJmPbh7knCxwkLry8w=
+			</data>
+		</dict>
+		<key>Classes/World History:Geography/AP European History.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ivmFfr2MLWBgnwLDWgFbh0ExrO7cg3A2eZBlAvBtOWw=
+			</data>
+		</dict>
+		<key>Classes/World History:Geography/AP Human Geography.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PMBW5EvCIJ+dKXzO+wbL0+8zvxZ3S6/++NAyiI5mqEM=
+			</data>
+		</dict>
+		<key>Classes/World History:Geography/AP World History Combined Studies.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			61AV9uP/OuvH/j0aNrLrxMUJL1RNA7Xqo5eoRscTXak=
+			</data>
+		</dict>
+		<key>Classes/World History:Geography/World History and Geography CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HMwkjbt5Ple/TF3bVS456bAyZKtSwPMPVUDwOYdwUCc=
+			</data>
+		</dict>
+		<key>Classes/World Languages/AP French Language.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B+oRBJBXUfwvatIGAjTiaCYkjsxxyluQt+f7FEx3+9A=
+			</data>
+		</dict>
+		<key>Classes/World Languages/AP German Language.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y6eng1rB7MrL4/NH6+lD3ftgYNEsBbIOR8u1PaaO/Ys=
+			</data>
+		</dict>
+		<key>Classes/World Languages/AP Spanish Language.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F0NK5jW9fmVFFBDJVODz0wd4GYfRaFzKuY2EUABCQjM=
+			</data>
+		</dict>
+		<key>Classes/World Languages/DE French 4.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GObMVqVWbI9w/CfVazp6gtaK4ufI53XCMc0DU98zuHA=
+			</data>
+		</dict>
+		<key>Classes/World Languages/DE Spanish 4.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9LjijykoVJbVe1hV0ThsU5AaX/HIj1/lu0kJAaNYICI=
+			</data>
+		</dict>
+		<key>Classes/World Languages/French 1 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rh52l6dJSkl1TPl4XjQEgn9LqpG8XENe323hhyebH+I=
+			</data>
+		</dict>
+		<key>Classes/World Languages/French 2 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J/R/zIaX+mvzZZbat78cdQwZs/+xlzVqWpsaxjRc9TU=
+			</data>
+		</dict>
+		<key>Classes/World Languages/French 2 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tHTWGxYP4lpF01vikz6mSs2VPATJIVZ+45ai/K57Cuw=
+			</data>
+		</dict>
+		<key>Classes/World Languages/French 3 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TLVlCCynDwLNFMeP++m3gcamVGVa5CMAS//WeCXQxxQ=
+			</data>
+		</dict>
+		<key>Classes/World Languages/German 1 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rzmr7TlzmiCuW0SDRXGCoRfUBdRbDA7633gdCxbMZ1o=
+			</data>
+		</dict>
+		<key>Classes/World Languages/German 2 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OtPoMT9CuAt7/x0CuHvKozsJZk16Kg1+ROLVsLSqHxo=
+			</data>
+		</dict>
+		<key>Classes/World Languages/German 2 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aUE+weK0bGeqczg8FWSanvXuThWEA0XD2cBgLLQ3aPw=
+			</data>
+		</dict>
+		<key>Classes/World Languages/German 3 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DLrbb+GKQMMn/6GxE5MyzM5ZXSI7hRntitS3EjtcWO4=
+			</data>
+		</dict>
+		<key>Classes/World Languages/Spanish 1 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8engaeU373F6ZswILn3cDiV62EXz5XYIathw+Sbb4d4=
+			</data>
+		</dict>
+		<key>Classes/World Languages/Spanish 2 CP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yqDNMcme31eWCSKcz5hNwsagRIgOifQzx7WP40r2j/U=
+			</data>
+		</dict>
+		<key>Classes/World Languages/Spanish 2 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Mdh0wxHgwXlQbLxlxP77TA8JKk/pxiJgsLTNlSZIqzc=
+			</data>
+		</dict>
+		<key>Classes/World Languages/Spanish 3 Honors.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WUUoy4bNB2rGkU3VRGEJnA3qI5apSqWmIY3raQzQD4o=
+			</data>
+		</dict>
+		<key>Clubs/ASAP.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			djQ76ewyGBHD/t8FcTMu/xz3l/Lq3l3YBCB0I01j9O0=
+			</data>
+		</dict>
+		<key>Clubs/Anime Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OESYvFplMyfFXyJxkqT9kCWY331oY8PhThmiP4fS/EU=
+			</data>
+		</dict>
+		<key>Clubs/Art and Ceramics Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yC97+zZdZZuMTo8063wpB9cUdCHakHsRMBRZPKdQFGI=
+			</data>
+		</dict>
+		<key>Clubs/Biology Olympiad Morning Announcements.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MCmr1A5eiRY5yeUjZRVB+fFSWtbqJND5FRgkcuJesuk=
+			</data>
+		</dict>
+		<key>Clubs/Book Club Morning Announcements.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WU35vbII4RCiD3sWHmzKr9tVdS4Qy5jT7Ef+bFImXBk=
+			</data>
+		</dict>
+		<key>Clubs/Branching Out.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bexAEdUwh0PjiroQSfoNufGEghxtI+G7WMzwkvNHImA=
+			</data>
+		</dict>
+		<key>Clubs/Chess Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nJ8AUIiPl0KtLbUahIUKfP42sXYd+UrfB/0k7bignfQ=
+			</data>
+		</dict>
+		<key>Clubs/Community Connections Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y6e+VsRJAH2kVlVJTrixgGywQEzSFi30fufvqwP1rGs=
+			</data>
+		</dict>
+		<key>Clubs/Computer Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XKFkKqCd0EBIKTqMUV0xwLS/3zYm+Y/E9VbBx4Z7J0o=
+			</data>
+		</dict>
+		<key>Clubs/Disc Sports Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			isWDjBf1qTvZ9b5lD+mIiC53eotoCV3v7H/HluJA3WM=
+			</data>
+		</dict>
+		<key>Clubs/FCCLA.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ixTCrgEa4cl5BHvn/7ZwelEIz4AdqbfTXeT4yVSidl8=
+			</data>
+		</dict>
+		<key>Clubs/Fantasy Sports Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2s+Hw2eURA9h0fbhyGEOaRxWvsuQh682X+8x5vqF+ac=
+			</data>
+		</dict>
+		<key>Clubs/Fellowship of Christian Athletes.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ah7oejYridHQQC2OASY8cjspsg3h8REDzoT3hZgDv7o=
+			</data>
+		</dict>
+		<key>Clubs/Film Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T+OttV95Edgdrb87fh2x67k+bbhL2vUX4cejkP5K/0M=
+			</data>
+		</dict>
+		<key>Clubs/French Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lU/IlTKbxSZ8AsQf5OCE/TDha3izePa9ajRqW9yFqQM=
+			</data>
+		</dict>
+		<key>Clubs/Future Business Leaders of America.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			16K6mANkoqUHRjZepSya3HleXGJ+hoQCu6JyNf3tgH8=
+			</data>
+		</dict>
+		<key>Clubs/GSTA - Gay Straight Trans Alliance.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FvLsLfF3mmyBqlIErUK083nepNhDMURNQpZxHfFasm8=
+			</data>
+		</dict>
+		<key>Clubs/German Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S6Dm5kxX0tSNL9EImCBLnhSBV3YmC5whhqxsMAEOzlU=
+			</data>
+		</dict>
+		<key>Clubs/HOSA - Future Health Professionals.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L6gUmbP1MdvmpGLOl3OREN9yoCh8KTSUx7X9TIHOEiw=
+			</data>
+		</dict>
+		<key>Clubs/Instrumental Jam Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oNKg8uErNEZXuipqPGDRAeBzDnAHS1oaG+x0BN3EzAs=
+			</data>
+		</dict>
+		<key>Clubs/Interact Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3ng+raO4jy3v9R8O2axwjLn3ewL+v2kR4snTTdcHG9c=
+			</data>
+		</dict>
+		<key>Clubs/International Relations Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			74pCgZCAc1Cz1v3X+3+zkBenU7vdzWYr2YwJrYuo7GE=
+			</data>
+		</dict>
+		<key>Clubs/Junior Class.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IV8i8vneJ2g152eSfk9qoBaKipARhQP01gTQtk+cciE=
+			</data>
+		</dict>
+		<key>Clubs/Key Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/x6hfCFukjwKBMK0VMTB2mT2gp6RROrsb/n3SAMB8k4=
+			</data>
+		</dict>
+		<key>Clubs/Masquers Drama Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mtS8w1mHU/qZLUGbvUoKPKXEW8aN6VuznU9s1KdA090=
+			</data>
+		</dict>
+		<key>Clubs/Math Club - Mu Alpha Theta Math Honorary Society.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			brk5lGT6LQMujAxkzKRqu/VkgyAQkU/utOK4lMiDxhE=
+			</data>
+		</dict>
+		<key>Clubs/National Honor Society.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FeDMthLvAy+D6+l/OT1kQIxb8vgyFSlLuHVzBiS+38Q=
+			</data>
+		</dict>
+		<key>Clubs/Philsophy Club and Ethics Bowl.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8vwwZWlxCn6Qm/lUsV0mnfmfjSMq6dF4jFUxzdk6XY4=
+			</data>
+		</dict>
+		<key>Clubs/Ping Pong Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2EVDUa+Kp9mdfir4c3doEg2K4nG0q7Q6V3u4gtNGKtg=
+			</data>
+		</dict>
+		<key>Clubs/Prom Board.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IQBe43jLbPKgMu//I1xbCxTES2/PnNUfAmmM1irX+4o=
+			</data>
+		</dict>
+		<key>Clubs/Quiz Bowl.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s29ppma3mDr/2SQmZR8Rb3ETkQUnMl+mpQTNMKr3ngE=
+			</data>
+		</dict>
+		<key>Clubs/SECME -.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vqG6ymmwyQZFzE1PpDq174gzj5hsG7JknPmPrl5gVjY=
+			</data>
+		</dict>
+		<key>Clubs/Science Bowl.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			njKzv/iz9PwROWI9fHrgJect5Yj8BBn0cME/1/1Nc60=
+			</data>
+		</dict>
+		<key>Clubs/Science Olympiad.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Zyzo7xcux5/AJ7jxUrwTz5hRuTmmAtFimL7WzMneUuk=
+			</data>
+		</dict>
+		<key>Clubs/Secret City Wildbots FIRST.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TB0oGg8ZCNhTsijJJbEUbHK6r7UMtZ71knOFd4xsv7w=
+			</data>
+		</dict>
+		<key>Clubs/Senior Steering.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XALg/ytlTvjh/bKCXmBYKtUiQ9KoI+zEP6FhagPKItY=
+			</data>
+		</dict>
+		<key>Clubs/Sewing Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T+yE6I2Jffj+CcptrucFjEROF+lM3oCkVXxi+V4BLb8=
+			</data>
+		</dict>
+		<key>Clubs/Ski and Snowboarding Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			49RpqSrOMy2C4m1e+OmQ3IirkIuLOeSf2jFjMH/x+cQ=
+			</data>
+		</dict>
+		<key>Clubs/Small Talk.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			csJ1GyLuT/8Pud9dNwBDzk9FvmyKx4ajfXun3S1/ogM=
+			</data>
+		</dict>
+		<key>Clubs/Spanish Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qiuxz5DcL1I5olLUD0dW8laCEoMUZHetioz1/X8V8GM=
+			</data>
+		</dict>
+		<key>Clubs/Student Council Students at Large.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A63zS5BPkVA9x7hkPxyh0YBKMjsVT4Gjx4P1mYJeYxc=
+			</data>
+		</dict>
+		<key>Clubs/Teen Contact Care.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1SHsbJZpWWutuimUShVJiTNnNJylD8pkHf0XxM3kJN0=
+			</data>
+		</dict>
+		<key>Clubs/Tutoring - Evening Math Help.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J+y626D5bPFF4N6seqHiQO3NYnodCliYhYDOl794SV8=
+			</data>
+		</dict>
+		<key>Clubs/Tutoring - National Honor Society.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KiGmECEVdFqZse6hrY6rjcO5UhhSV9lDDsDwjIDngIQ=
+			</data>
+		</dict>
+		<key>Clubs/Wildcat Pride.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xQxuNRelJF0iabsa9Yi/eYeQko49VOTVOtmZaVadz+s=
+			</data>
+		</dict>
+		<key>Clubs/Young Life.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mgGK9qQGM9MtYGTzHHNGouUaXofLWwY61fEt6byG8Lc=
+			</data>
+		</dict>
+		<key>Clubs/Youth Advisory Board.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rxl7P3g/cMK+mZG2wkvTOoo1DWOz6Nt/WbcLX8Ji2e4=
+			</data>
+		</dict>
+		<key>Clubs/Youth for Christ.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n4wCrBFbWxUmUVpT2wT7O5oq8a8vP0HYSxEybNf3e8g=
+			</data>
+		</dict>
+		<key>Clubs/YuGi - Oh! Club.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QB6Ai2HHfZCEZ9nvHboDGaJiRFc3SQzUcAwCGA2nf7w=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Jo2417BUUyix/wXge522LYs3TlSauBjXD3LAPz9xIz4=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreFoundation.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WT943vCFqjLANAiuv+zIrYHWOusxD9pOxNl56O2Hjbk=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rt3kcO7x9g1Gdg+mQqaBX87UgixWCiEgY9fg3aacYEE=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7IDTT1TW7PghsWrrmEHMu3J80DOJ42gzbwkoS6sVf48=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			11TqxWB2f1qFcVCvDD1R8j1EKiFBF5FJ2NvD6L4QqOw=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JN4zMXzJgKb/bdmtSaa8ZzaMU53p1SEXd/m/UiwAHVo=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kY3k07Xb+biEmDOiaWpb7B9qjRW3Jv4JQmJrQvOxyjs=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftMetal.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CcMVtk28IJCGUgdXooaRe/0IuhXci+lzHwjCzWzJeFY=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SzWaPZdO49InmE49SxUX98Rcjtrvcx/mlbR1kB0+5zk=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftQuartzCore.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			glkv7elJ4FlIhnQ4TMKnGDCMjYu77vAM/wEPHJP9PJU=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			flulZB/551NHJDeCtJ46byXydOXxZyeKjoCHQkwaPPo=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftos.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7A2ETLre+9w9l5e92gqpCq7efjJjjhNp50W2TolAeK0=
+			</data>
+		</dict>
+		<key>Main.storyboardc/0PL-iD-GhE-view-MdK-qv-pUr.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xvHnZ6aANa943cZpdCmP3qQLogXnsv57ofcOQt01D8s=
+			</data>
+		</dict>
+		<key>Main.storyboardc/2KR-4y-G1y-view-5BE-Uf-9EK.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XNQ1xO/UUESq01NstJc7A6gx0/l1NVLcgTg/A4LHvcw=
+			</data>
+		</dict>
+		<key>Main.storyboardc/2bL-yE-Ttb-view-EMk-cA-2Ip.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9cBfErqDx929LyoT77KyQ1Tqq19VHv4YRvNwKzI85ns=
+			</data>
+		</dict>
+		<key>Main.storyboardc/HOE-RT-Cfu-view-4Bh-h4-wf1.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K/eP/a4yixXZ/xnt3Gx8XLxx2P4Kx/g4rEEliKjI+oQ=
+			</data>
+		</dict>
+		<key>Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MLwS9utuxLLZMt0DWk3PvtwhqV1xuPI1gklIHcpm6vs=
+			</data>
+		</dict>
+		<key>Main.storyboardc/Kl0-rH-07y-view-Zn4-61-OCX.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5b0vn5uTv8HkEPj0LDR9k66JWyfxRrqO3n1Zj1Hlhgc=
+			</data>
+		</dict>
+		<key>Main.storyboardc/Lws-K0-euf-view-BB1-Jd-nKy.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t+CbDsBKrT09NZ6rgBCDgFPWJhMoerU7vuzNKuPvXxg=
+			</data>
+		</dict>
+		<key>Main.storyboardc/OXo-xx-YwK-view-WXz-DF-bF9.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kiIDJSYrPsP3DoYyhoe+7+e0o3ZxuEji1nCp/juojjM=
+			</data>
+		</dict>
+		<key>Main.storyboardc/Qkm-Hu-mhc-view-3Zt-sQ-toI.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fa6FPGRAenS7IpCAz9stnUy6veYGeE6YfvFXdUIP9JE=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UINavigationController-Buf-ws-C4c.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xJteNMWB9HMl7FyjwNhdgKIqOOCRLdEo2e5TucS6Dac=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UITabBarController-49e-Tb-3d3.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h9eaoeUbYJIa/Z1F5sgurSyKmzT0iuN6zINbec5rN4k=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UITabBarController-Gad-kg-maT.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AvYFsNWfQ79VgSQ/vhZGLOYC4H77E7wByIYYLkCzlag=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UITabBarController-Rjw-2P-6Tk.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yflNKVf8+JJvvt2rnsOWAZPCvPV2FKf+80Qnb8U1AhU=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UITableViewController-Lws-K0-euf.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ptwza8k7zoumG8060Vt4LW0uTAYLBKByCBcYujEZbWc=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UITableViewController-bHs-Md-doF.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LZBqH6sDiWRZNwFjYikQn6y0vZmN2lmggTPitIcpA8E=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UIViewController-0PL-iD-GhE.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rJg57Aha9sR0O6pWf1RtsVlKmJpYYBJcTXSDNlzAiGU=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UIViewController-2bL-yE-Ttb.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p9ttjWdTefX7C9mlcn46v0UuP2GUJip3tmrhVdAn40k=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UIViewController-HOE-RT-Cfu.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7qDsun+l+dAsOhiswcJvpFqCK9/3oMyEGloD2f1dqiU=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UIViewController-OXo-xx-YwK.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pT5/G4Xxi4MurFUxj9jXqUhT5moOIKbz1bYcaegEnvk=
+			</data>
+		</dict>
+		<key>Main.storyboardc/UIViewController-mL4-YU-90G.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dOXoZo2wX2w/Kq0et00kBY5WnuIMxu9arMrckv8ibP4=
+			</data>
+		</dict>
+		<key>Main.storyboardc/bHs-Md-doF-view-oxJ-fg-ye7.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jrLGvntOpZWrJrN2iktZ+l1itZseL/Ued0lGDhmuP7c=
+			</data>
+		</dict>
+		<key>Main.storyboardc/cK2-52-0rq-view-8pJ-H6-ZEP.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g1L6OJXOaeHpDmg1gOj7BYV32SrJTsX2sKaigIXq+Ow=
+			</data>
+		</dict>
+		<key>Main.storyboardc/mL4-YU-90G-view-qsm-sg-cwE.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bPHe18hMuzmFT14ZQBH0EjLlmesy87SPYxQKQeQFwvI=
+			</data>
+		</dict>
+		<key>Main.storyboardc/ppd-vT-6ok-view-bIy-if-rDM.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9MK00vkVPXvFPx5w2Azkjlyil5qinA62ke75+H+aXvA=
+			</data>
+		</dict>
+		<key>Main.storyboardc/rNg-Xl-Tlo-view-k2B-DE-rjI.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QKsyVhuDlmjT7rw6Cd2xOiGpVybs4DE43eBsbh5RgXw=
+			</data>
+		</dict>
+		<key>Main.storyboardc/t4X-SQ-74i-view-0LA-OB-Jsp.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WYSufVRuZ1vMflU8+DATuGC3U0UBZR8qquFsdgW4QsA=
+			</data>
+		</dict>
+		<key>Main.storyboardc/uQA-dA-YOe-view-FUu-zX-tlX.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eylLeWpDlLLkHQNvmaPGx9ZodqRbqoq104Cdt65dVf8=
+			</data>
+		</dict>
+		<key>Sports/Baseball.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3BBZYmDFpl7cCPD1ICJabEWwdBKwb7K1CAwhci4kzaU=
+			</data>
+		</dict>
+		<key>Sports/Boys Basketball.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8pxvNlmECHfGhrMfJDW5LdrhaC6+ozAw3ZTD5F+WOSc=
+			</data>
+		</dict>
+		<key>Sports/Cheerleading.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R/r/pv02vEK/wgFPHa8AUfnTk1Nu4tdr2BnKt2EXjus=
+			</data>
+		</dict>
+		<key>Sports/Cross Country - Boys &amp; Girls.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vZqZ7B9D22K+G44MUFja1JLl1yJrJn9sD7pHTScc/14=
+			</data>
+		</dict>
+		<key>Sports/Football.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8sLbLJ4jsaxxrMvHNxQtQ7fmlB+8S0hPYLakTLrmhJY=
+			</data>
+		</dict>
+		<key>Sports/Girls Basketball.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2RB1Qw+sF04h5nF1Tqj4C9V9S+LteWUz4X4paEb5wCA=
+			</data>
+		</dict>
+		<key>Sports/Golf - Boys and Girls.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1BTnHC8SJhl3frzv79IEunmoO5Hh9GpNuPZXIT4a1X8=
+			</data>
+		</dict>
+		<key>Sports/Soccer - Boys &amp; Girls.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2KMlsAoSc5M9kWPBit+ftB/TLKEnPozFrOJ+sxBZHVU=
+			</data>
+		</dict>
+		<key>Sports/Softball.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bGhjbcWWs545kk1kUZSK7WmaVnMhVIZULze+5g8IdcQ=
+			</data>
+		</dict>
+		<key>Sports/Swimming - Boys &amp; Girls.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Urmwe6kobb2XEuHw9+kP7UqmR8Na9a+7wcdpy/p+mW0=
+			</data>
+		</dict>
+		<key>Sports/Tennis - Boys &amp; Girls.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V8U3CtT6jjHuXi7C1a/4ExcmKv/38+2VKp9FDtOBGOo=
+			</data>
+		</dict>
+		<key>Sports/Track - Boys &amp; Girls.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ct4EJEas1axx7qgVarwBp0vm8X0Br8qeQWaD2BEi69w=
+			</data>
+		</dict>
+		<key>Sports/Volleyball.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pGUMkMLD4ppsYWXmpHIaI1moF1uDDBqlAhdbFj3YxA4=
+			</data>
+		</dict>
+		<key>embedded.mobileprovision</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Fz7RCiMKMsUSYEwAu7b6cKh2NNuOJ7reeVJKVTOo2P8=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

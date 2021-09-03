@@ -1,0 +1,362 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Club"
+provides-nominal:
+- "12ORHS_Classes4ClubC"
+- "12ORHS_Classes4ClubC11PropertyKeyV"
+provides-member:
+- ["12ORHS_Classes4ClubC", ""]
+- ["12ORHS_Classes4ClubC11PropertyKeyV", ""]
+provides-dynamic-lookup:
+- "add"
+- "commitment"
+- "days"
+- "encode"
+- "link"
+- "name"
+- "summary"
+- "times"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- "CastingPrecedence"
+- "Club"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "NSCoder"
+- "NSCoding"
+- "NSObject"
+- !private "OSLog"
+- "String"
+- "StringLiteralType"
+- !private "os_log"
+- !private "print"
+depends-member:
+- !private ["Sa", "isEmpty"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "subscript"]
+- !private ["s7CVarArgP", "OSLog"]
+- !private ["s7CVarArgP", "PropertyKey"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "add"]
+- !private ["s7CVarArgP", "commitment"]
+- !private ["s7CVarArgP", "days"]
+- !private ["s7CVarArgP", "decodeBool"]
+- !private ["s7CVarArgP", "decodeObject"]
+- !private ["s7CVarArgP", "default"]
+- ["s7CVarArgP", "encode"]
+- ["s7CVarArgP", "encodeWithCoder"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "link"]
+- !private ["s7CVarArgP", "name"]
+- !private ["s7CVarArgP", "os_log"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "summary"]
+- !private ["s7CVarArgP", "times"]
+- ["12ORHS_Classes4ClubC", "Bool"]
+- ["12ORHS_Classes4ClubC", "NSCoder"]
+- !private ["12ORHS_Classes4ClubC", "OSLog"]
+- ["12ORHS_Classes4ClubC", "PropertyKey"]
+- ["12ORHS_Classes4ClubC", "String"]
+- ["12ORHS_Classes4ClubC", "add"]
+- ["12ORHS_Classes4ClubC", "commitment"]
+- ["12ORHS_Classes4ClubC", "days"]
+- ["12ORHS_Classes4ClubC", "deinit"]
+- ["12ORHS_Classes4ClubC", "encode"]
+- ["12ORHS_Classes4ClubC", "encodeWithCoder"]
+- ["12ORHS_Classes4ClubC", "init"]
+- ["12ORHS_Classes4ClubC", "link"]
+- ["12ORHS_Classes4ClubC", "name"]
+- !private ["12ORHS_Classes4ClubC", "os_log"]
+- !private ["12ORHS_Classes4ClubC", "print"]
+- ["12ORHS_Classes4ClubC", "summary"]
+- ["12ORHS_Classes4ClubC", "times"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "OSLog"]
+- !private ["s28CustomDebugStringConvertibleP", "PropertyKey"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "add"]
+- !private ["s28CustomDebugStringConvertibleP", "commitment"]
+- !private ["s28CustomDebugStringConvertibleP", "days"]
+- !private ["s28CustomDebugStringConvertibleP", "decodeBool"]
+- !private ["s28CustomDebugStringConvertibleP", "decodeObject"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- ["s28CustomDebugStringConvertibleP", "encode"]
+- ["s28CustomDebugStringConvertibleP", "encodeWithCoder"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "link"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "os_log"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "summary"]
+- !private ["s28CustomDebugStringConvertibleP", "times"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "OSLog"]
+- !private ["s23CustomStringConvertibleP", "PropertyKey"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "add"]
+- !private ["s23CustomStringConvertibleP", "commitment"]
+- !private ["s23CustomStringConvertibleP", "days"]
+- !private ["s23CustomStringConvertibleP", "decodeBool"]
+- !private ["s23CustomStringConvertibleP", "decodeObject"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- ["s23CustomStringConvertibleP", "encode"]
+- ["s23CustomStringConvertibleP", "encodeWithCoder"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "link"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "os_log"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "summary"]
+- !private ["s23CustomStringConvertibleP", "times"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "subscript"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "OSLog"]
+- !private ["SQ", "PropertyKey"]
+- ["SQ", ""]
+- !private ["SQ", "add"]
+- !private ["SQ", "commitment"]
+- !private ["SQ", "days"]
+- !private ["SQ", "debug"]
+- !private ["SQ", "decodeBool"]
+- !private ["SQ", "decodeObject"]
+- !private ["SQ", "default"]
+- ["SQ", "encode"]
+- ["SQ", "encodeWithCoder"]
+- ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "link"]
+- !private ["SQ", "name"]
+- !private ["SQ", "os_log"]
+- !private ["SQ", "print"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "summary"]
+- !private ["SQ", "times"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["SH", "OSLog"]
+- !private ["SH", "PropertyKey"]
+- ["SH", ""]
+- !private ["SH", "add"]
+- !private ["SH", "commitment"]
+- !private ["SH", "days"]
+- !private ["SH", "decodeBool"]
+- !private ["SH", "decodeObject"]
+- !private ["SH", "default"]
+- ["SH", "encode"]
+- ["SH", "encodeWithCoder"]
+- ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "link"]
+- !private ["SH", "name"]
+- !private ["SH", "os_log"]
+- !private ["SH", "print"]
+- !private ["SH", "subscript"]
+- !private ["SH", "summary"]
+- !private ["SH", "times"]
+- !private ["SM", "isEmpty"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So7NSCoderC", "decodeBool"]
+- !private ["So7NSCoderC", "decodeObject"]
+- !private ["So7NSCoderC", "encode"]
+- !private ["So8NSCodingP", "OSLog"]
+- !private ["So8NSCodingP", "PropertyKey"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "add"]
+- !private ["So8NSCodingP", "commitment"]
+- !private ["So8NSCodingP", "days"]
+- ["So8NSCodingP", "encode"]
+- ["So8NSCodingP", "encodeWithCoder"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "link"]
+- !private ["So8NSCodingP", "name"]
+- !private ["So8NSCodingP", "os_log"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "summary"]
+- !private ["So8NSCodingP", "times"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "NSCoder"]
+- !private ["So8NSObjectC", "OSLog"]
+- !private ["So8NSObjectC", "PropertyKey"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "add"]
+- ["So8NSObjectC", "commitment"]
+- ["So8NSObjectC", "days"]
+- !private ["So8NSObjectC", "decodeBool"]
+- !private ["So8NSObjectC", "decodeObject"]
+- !private ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "encode"]
+- ["So8NSObjectC", "encodeWithCoder"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "link"]
+- ["So8NSObjectC", "name"]
+- !private ["So8NSObjectC", "os_log"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "summary"]
+- ["So8NSObjectC", "times"]
+- !private ["So8NSObjectP", "OSLog"]
+- !private ["So8NSObjectP", "PropertyKey"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "add"]
+- !private ["So8NSObjectP", "commitment"]
+- !private ["So8NSObjectP", "days"]
+- !private ["So8NSObjectP", "decodeBool"]
+- !private ["So8NSObjectP", "decodeObject"]
+- !private ["So8NSObjectP", "default"]
+- ["So8NSObjectP", "encode"]
+- ["So8NSObjectP", "encodeWithCoder"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "link"]
+- !private ["So8NSObjectP", "name"]
+- !private ["So8NSObjectP", "os_log"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "summary"]
+- !private ["So8NSObjectP", "times"]
+- !private ["So9OS_os_logC", "default"]
+- !private ["So13os_log_type_ta", "debug"]
+- ["12ORHS_Classes4ClubC11PropertyKeyV", "add"]
+- ["12ORHS_Classes4ClubC11PropertyKeyV", "commitment"]
+- ["12ORHS_Classes4ClubC11PropertyKeyV", "days"]
+- ["12ORHS_Classes4ClubC11PropertyKeyV", "init"]
+- ["12ORHS_Classes4ClubC11PropertyKeyV", "link"]
+- ["12ORHS_Classes4ClubC11PropertyKeyV", "name"]
+- ["12ORHS_Classes4ClubC11PropertyKeyV", "summary"]
+- ["12ORHS_Classes4ClubC11PropertyKeyV", "times"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "debug"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "subscript"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "OSLog"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PropertyKey"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "add"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commitment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "days"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "decodeBool"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "decodeObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "encode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "encodeWithCoder"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "link"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "os_log"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "summary"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "times"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "OSLog"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "PropertyKey"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "add"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "commitment"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "days"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "decodeBool"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "decodeObject"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "default"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "encode"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "encodeWithCoder"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "link"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "name"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "os_log"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "summary"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "times"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- "s7CVarArgP"
+- "12ORHS_Classes4ClubC"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So7NSCoderC"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So9OS_os_logC"
+- !private "So13os_log_type_ta"
+- "12ORHS_Classes4ClubC11PropertyKeyV"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f63dcac949e6af04cf723eebf073c8fd"

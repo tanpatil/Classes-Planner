@@ -1,0 +1,6 @@
+Class Name[[[ AP Chemistry
+Subject/Category[[[ Science
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Chemistry
+Description[[[ AP Chemistry is designed to be the equivalent of a general chemistry course taken during the first year of college. It is structured around the six big ideas articulated in the AP Chemistry curriculum framework provided by the College Board. The topics covered include: atomic structure, intermolecular forces and bonding, chemical reactions, kinetics, thermodynamics, acid/base equilibria, buffers, and electrochemistry. The course will prepare students for the AP Chemistry exam.

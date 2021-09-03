@@ -1,0 +1,6 @@
+Class Name[[[ Algebra 1 CP
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ None
+Description[[[ This course primarily covers linear, quadratic and exponential functions. For these function families, students will use equation solving, graphing, and connections between different representations to analyze contextual problems. Supporting concepts include inequalities, absolute value, polynomials, exponents, radicals and basic statistics. This course is designed to address all Algebra 1 topics. Students are required to take the TNReady end-of-course Exam with the exam score figured as a part of the student’s final grade in the course.

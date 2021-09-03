@@ -1,0 +1,6 @@
+Class Name[[[ Dual Enrollment Linear Algebra
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Open to students who have completed AP Calculus BC with a minimum grade of C and a 3 or higher on the AP Exam. Select students with high A averages from Pre-calculus Analysis, Honors will be considered for this course if it is taken simultaneously with Calculus BC AP. The latter students must receive the recommendation of the Pre-calculus Analysis, Honors instructor.
+Description[[[ An introductory course in matrix algebra for mathematics, science and engineering students along with appropriate applications. Topics covered include Systems of linear equations, matrix algebra, inverses, matrix factorizations, determinants, vector spaces and dimension, rank, linear transformations, eigenvalues and eigenvectors, inner product, orthogonal projections. This course is equivalent to MATH 2010 at Tennessee Tech University and students have the opportunity for dual enrollment.

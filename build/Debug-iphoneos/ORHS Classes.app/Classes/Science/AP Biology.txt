@@ -1,0 +1,6 @@
+Class Name[[[ AP Biology
+Subject/Category[[[ Science
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Chemistry
+Description[[[ AP Biology is designed to be the equivalent of a general biology course taken during the first year of college. The course is organized around the underlying four big ideas which encompass the core scientific principle theories and processes governing living and biological systems. The four big ideas are: evolution, cellular processes (energy transfer), genetics (information transfer), and interactions. The course will prepare students for the AP Biology exam.

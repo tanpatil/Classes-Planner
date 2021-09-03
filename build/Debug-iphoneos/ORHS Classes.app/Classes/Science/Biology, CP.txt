@@ -1,0 +1,6 @@
+Class Name[[[ Biology, CP
+Subject/Category[[[ Science
+Number of Credits[[[ 1.0
+GPA[[[ 4.0
+Average Number of Hours of Homework per Day[[[ STEM
+Description[[[ Biology, CP introduces students to the world of living things. The goal is to develop an understanding of the diversity and unity in life. Concepts covered include basic life processes, interdependence and interactions within the environment, evidence of biological evolution, and current and emerging technologies in the life sciences. This course prepares students to succeed on the Tennessee Biology End of Course Exam.

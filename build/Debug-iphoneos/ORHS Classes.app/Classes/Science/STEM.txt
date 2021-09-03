@@ -1,0 +1,6 @@
+Class Name[[[ STEM
+Subject/Category[[[ Science
+Number of Credits[[[ 1.0
+GPA[[[ 4.0
+Average Number of Hours of Homework per Day[[[ None
+Description[[[ This STEM course uses problem based learning (PBL) to reinforce Algebra I concepts through science, technology, and engineering methods and principals. Through PBL, students gain knowledge and skills by working for an extended period of time to investigate and respond to an engaging and complex question, problem, or challenge. Students will be working to solve problems in high functioning, well monitored groups.

@@ -1,0 +1,6 @@
+Class Name[[[ Pre-calculus AB SWDC
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Algebra 2/Trigonometry, Honors, Algebra 2/Trigonometry
+Description[[[ Pre-calculus is designed to prepare students for college level STEM focused courses. Students extend their knowledge of the complex number system to use complex numbers in polynomial identities and equations. Topics for student mastery include vectors and matrix quantities, sequences and series, parametric equations, and conic sections. Students use previous knowledge to continue progressing in their understanding of polynomial, exponential, logarithmic, trigonometric functions, probability, data analysis/statistics, and using regression equations to model quantitative data. This course will offer State Dual Credit upon successful completion of the State Pre-Calculus Challenge Exam.

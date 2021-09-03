@@ -1,0 +1,510 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HomeViewController"
+provides-nominal:
+- "12ORHS_Classes18HomeViewControllerC"
+provides-member:
+- ["12ORHS_Classes18HomeViewControllerC", ""]
+provides-dynamic-lookup:
+- "ORHSFacebook"
+- "ORHSWebsite"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "Dictionary"
+- !private "FloatLiteralType"
+- "HomeViewController"
+- !private "IntegerLiteralType"
+- !private "NSMutableAttributedString"
+- !private "NSRange"
+- "String"
+- !private "StringLiteralType"
+- "UIApplication"
+- !private "UIFont"
+- "UITextView"
+- "UIViewController"
+- !private "convertToUIApplicationOpenExternalURLOptionsKeyDictionary"
+depends-member:
+- !private ["So15CALayerDelegateP", "attributedText"]
+- !private ["So15CALayerDelegateP", "font"]
+- !private ["So15CALayerDelegateP", "sizeToFit"]
+- !private ["s7CVarArgP", "NSMutableAttributedString"]
+- !private ["s7CVarArgP", "NSRange"]
+- !private ["s7CVarArgP", "ORHSFacebook"]
+- !private ["s7CVarArgP", "ORHSWebsite"]
+- ["s7CVarArgP", "OpenExternalURLOptionsKey"]
+- !private ["s7CVarArgP", "UIFont"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addAttribute"]
+- !private ["s7CVarArgP", "attributedText"]
+- !private ["s7CVarArgP", "font"]
+- !private ["s7CVarArgP", "fontName"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "sizeToFit"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "NSMutableAttributedString"]
+- !private ["s28CustomDebugStringConvertibleP", "NSRange"]
+- !private ["s28CustomDebugStringConvertibleP", "ORHSFacebook"]
+- !private ["s28CustomDebugStringConvertibleP", "ORHSWebsite"]
+- ["s28CustomDebugStringConvertibleP", "OpenExternalURLOptionsKey"]
+- !private ["s28CustomDebugStringConvertibleP", "UIFont"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addAttribute"]
+- !private ["s28CustomDebugStringConvertibleP", "attributedText"]
+- !private ["s28CustomDebugStringConvertibleP", "font"]
+- !private ["s28CustomDebugStringConvertibleP", "fontName"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "sizeToFit"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "attributedText"]
+- !private ["s17CustomReflectableP", "font"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "sizeToFit"]
+- !private ["s23CustomStringConvertibleP", "NSMutableAttributedString"]
+- !private ["s23CustomStringConvertibleP", "NSRange"]
+- !private ["s23CustomStringConvertibleP", "ORHSFacebook"]
+- !private ["s23CustomStringConvertibleP", "ORHSWebsite"]
+- ["s23CustomStringConvertibleP", "OpenExternalURLOptionsKey"]
+- !private ["s23CustomStringConvertibleP", "UIFont"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addAttribute"]
+- !private ["s23CustomStringConvertibleP", "attributedText"]
+- !private ["s23CustomStringConvertibleP", "font"]
+- !private ["s23CustomStringConvertibleP", "fontName"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "sizeToFit"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "attributedText"]
+- !private ["Se", "font"]
+- !private ["Se", "init"]
+- !private ["Se", "map"]
+- !private ["Se", "sizeToFit"]
+- !private ["SD", "init"]
+- !private ["SD", "map"]
+- !private ["SE", "attributedText"]
+- !private ["SE", "font"]
+- !private ["SE", "init"]
+- !private ["SE", "map"]
+- !private ["SE", "sizeToFit"]
+- !private ["SQ", "NSMutableAttributedString"]
+- !private ["SQ", "NSRange"]
+- !private ["SQ", "ORHSFacebook"]
+- !private ["SQ", "ORHSWebsite"]
+- ["SQ", "OpenExternalURLOptionsKey"]
+- !private ["SQ", "UIFont"]
+- ["SQ", ""]
+- !private ["SQ", "addAttribute"]
+- !private ["SQ", "attributedText"]
+- !private ["SQ", "font"]
+- !private ["SQ", "fontName"]
+- !private ["SQ", "init"]
+- !private ["SQ", "link"]
+- !private ["SQ", "map"]
+- !private ["SQ", "sizeToFit"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "map"]
+- !private ["s23ExpressibleByNilLiteralP", "attributedText"]
+- !private ["s23ExpressibleByNilLiteralP", "font"]
+- !private ["s23ExpressibleByNilLiteralP", "sizeToFit"]
+- !private ["SH", "NSMutableAttributedString"]
+- !private ["SH", "NSRange"]
+- !private ["SH", "ORHSFacebook"]
+- !private ["SH", "ORHSWebsite"]
+- ["SH", "OpenExternalURLOptionsKey"]
+- !private ["SH", "UIFont"]
+- ["SH", ""]
+- !private ["SH", "addAttribute"]
+- !private ["SH", "attributedText"]
+- !private ["SH", "font"]
+- !private ["SH", "fontName"]
+- !private ["SH", "init"]
+- !private ["SH", "link"]
+- !private ["SH", "map"]
+- !private ["SH", "sizeToFit"]
+- !private ["SH", "viewDidLoad"]
+- !private ["12ORHS_Classes18HomeViewControllerC", "NSMutableAttributedString"]
+- !private ["12ORHS_Classes18HomeViewControllerC", "NSRange"]
+- ["12ORHS_Classes18HomeViewControllerC", "ORHSFacebook"]
+- ["12ORHS_Classes18HomeViewControllerC", "ORHSWebsite"]
+- !private ["12ORHS_Classes18HomeViewControllerC", "UIFont"]
+- ["12ORHS_Classes18HomeViewControllerC", "UITextView"]
+- ["12ORHS_Classes18HomeViewControllerC", "deinit"]
+- ["12ORHS_Classes18HomeViewControllerC", "init"]
+- ["12ORHS_Classes18HomeViewControllerC", "viewDidLoad"]
+- !private ["So21NSAttributedStringKeya", "link"]
+- !private ["So18NSAttributedStringC", "addAttribute"]
+- !private ["So18NSAttributedStringC", "init"]
+- !private ["So8NSCodingP", "NSMutableAttributedString"]
+- !private ["So8NSCodingP", "NSRange"]
+- !private ["So8NSCodingP", "ORHSFacebook"]
+- !private ["So8NSCodingP", "ORHSWebsite"]
+- !private ["So8NSCodingP", "UIFont"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addAttribute"]
+- !private ["So8NSCodingP", "attributedText"]
+- !private ["So8NSCodingP", "font"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "sizeToFit"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "addAttribute"]
+- !private ["So9NSCopyingP", "fontName"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "NSMutableAttributedString"]
+- !private ["So26NSExtensionRequestHandlingP", "NSRange"]
+- !private ["So26NSExtensionRequestHandlingP", "ORHSFacebook"]
+- !private ["So26NSExtensionRequestHandlingP", "ORHSWebsite"]
+- !private ["So26NSExtensionRequestHandlingP", "UIFont"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "addAttribute"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "addAttribute"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So25NSMutableAttributedStringC", "addAttribute"]
+- !private ["So25NSMutableAttributedStringC", "init"]
+- !private ["So16NSMutableCopyingP", "addAttribute"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "NSMutableAttributedString"]
+- !private ["So8NSObjectC", "NSRange"]
+- ["So8NSObjectC", "ORHSFacebook"]
+- ["So8NSObjectC", "ORHSWebsite"]
+- ["So8NSObjectC", "OpenExternalURLOptionsKey"]
+- !private ["So8NSObjectC", "UIFont"]
+- ["So8NSObjectC", "UITextView"]
+- !private ["So8NSObjectC", "addAttribute"]
+- !private ["So8NSObjectC", "attributedText"]
+- !private ["So8NSObjectC", "font"]
+- !private ["So8NSObjectC", "fontName"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "sizeToFit"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "NSMutableAttributedString"]
+- !private ["So8NSObjectP", "NSRange"]
+- !private ["So8NSObjectP", "ORHSFacebook"]
+- !private ["So8NSObjectP", "ORHSWebsite"]
+- ["So8NSObjectP", "OpenExternalURLOptionsKey"]
+- !private ["So8NSObjectP", "UIFont"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addAttribute"]
+- !private ["So8NSObjectP", "attributedText"]
+- !private ["So8NSObjectP", "font"]
+- !private ["So8NSObjectP", "fontName"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "sizeToFit"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "addAttribute"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So38UIApplicationOpenExternalURLOptionsKeya", "init"]
+- !private ["Sq", "attributedText"]
+- !private ["Sq", "font"]
+- !private ["Sq", "sizeToFit"]
+- !private ["SY", "init"]
+- !private ["SY", "link"]
+- !private ["ST", "init"]
+- !private ["ST", "map"]
+- !private ["So29UIAccessibilityIdentificationP", "attributedText"]
+- !private ["So29UIAccessibilityIdentificationP", "font"]
+- !private ["So29UIAccessibilityIdentificationP", "sizeToFit"]
+- !private ["So12UIAppearanceP", "attributedText"]
+- !private ["So12UIAppearanceP", "font"]
+- !private ["So12UIAppearanceP", "sizeToFit"]
+- !private ["So21UIAppearanceContainerP", "NSMutableAttributedString"]
+- !private ["So21UIAppearanceContainerP", "NSRange"]
+- !private ["So21UIAppearanceContainerP", "ORHSFacebook"]
+- !private ["So21UIAppearanceContainerP", "ORHSWebsite"]
+- !private ["So21UIAppearanceContainerP", "UIFont"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "attributedText"]
+- !private ["So21UIAppearanceContainerP", "font"]
+- !private ["So21UIAppearanceContainerP", "sizeToFit"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So13UIApplicationC", "OpenExternalURLOptionsKey"]
+- !private ["So18UIContentContainerP", "NSMutableAttributedString"]
+- !private ["So18UIContentContainerP", "NSRange"]
+- !private ["So18UIContentContainerP", "ORHSFacebook"]
+- !private ["So18UIContentContainerP", "ORHSWebsite"]
+- !private ["So18UIContentContainerP", "UIFont"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "attributedText"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "font"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "sizeToFit"]
+- !private ["So17UICoordinateSpaceP", "attributedText"]
+- !private ["So17UICoordinateSpaceP", "font"]
+- !private ["So17UICoordinateSpaceP", "sizeToFit"]
+- !private ["So13UIDynamicItemP", "attributedText"]
+- !private ["So13UIDynamicItemP", "font"]
+- !private ["So13UIDynamicItemP", "sizeToFit"]
+- !private ["So18UIFocusEnvironmentP", "NSMutableAttributedString"]
+- !private ["So18UIFocusEnvironmentP", "NSRange"]
+- !private ["So18UIFocusEnvironmentP", "ORHSFacebook"]
+- !private ["So18UIFocusEnvironmentP", "ORHSWebsite"]
+- !private ["So18UIFocusEnvironmentP", "UIFont"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "attributedText"]
+- !private ["So18UIFocusEnvironmentP", "font"]
+- !private ["So18UIFocusEnvironmentP", "sizeToFit"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "attributedText"]
+- !private ["So11UIFocusItemP", "font"]
+- !private ["So11UIFocusItemP", "sizeToFit"]
+- !private ["So20UIFocusItemContainerP", "attributedText"]
+- !private ["So20UIFocusItemContainerP", "font"]
+- !private ["So20UIFocusItemContainerP", "sizeToFit"]
+- !private ["So30UIFocusItemScrollableContainerP", "attributedText"]
+- !private ["So30UIFocusItemScrollableContainerP", "font"]
+- !private ["So30UIFocusItemScrollableContainerP", "sizeToFit"]
+- !private ["So6UIFontC", "fontName"]
+- !private ["So6UIFontC", "init"]
+- !private ["So10UIKeyInputP", "attributedText"]
+- !private ["So10UIKeyInputP", "font"]
+- !private ["So10UIKeyInputP", "sizeToFit"]
+- !private ["So24UILargeContentViewerItemP", "attributedText"]
+- !private ["So24UILargeContentViewerItemP", "font"]
+- !private ["So24UILargeContentViewerItemP", "sizeToFit"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSMutableAttributedString"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSRange"]
+- !private ["So30UIPasteConfigurationSupportingP", "ORHSFacebook"]
+- !private ["So30UIPasteConfigurationSupportingP", "ORHSWebsite"]
+- ["So30UIPasteConfigurationSupportingP", "OpenExternalURLOptionsKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIFont"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "attributedText"]
+- !private ["So30UIPasteConfigurationSupportingP", "font"]
+- !private ["So30UIPasteConfigurationSupportingP", "sizeToFit"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "NSMutableAttributedString"]
+- !private ["So11UIResponderC", "NSRange"]
+- ["So11UIResponderC", "ORHSFacebook"]
+- ["So11UIResponderC", "ORHSWebsite"]
+- ["So11UIResponderC", "OpenExternalURLOptionsKey"]
+- !private ["So11UIResponderC", "UIFont"]
+- ["So11UIResponderC", "UITextView"]
+- !private ["So11UIResponderC", "attributedText"]
+- !private ["So11UIResponderC", "font"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "sizeToFit"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "NSMutableAttributedString"]
+- !private ["So30UIResponderStandardEditActionsP", "NSRange"]
+- !private ["So30UIResponderStandardEditActionsP", "ORHSFacebook"]
+- !private ["So30UIResponderStandardEditActionsP", "ORHSWebsite"]
+- ["So30UIResponderStandardEditActionsP", "OpenExternalURLOptionsKey"]
+- !private ["So30UIResponderStandardEditActionsP", "UIFont"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "attributedText"]
+- !private ["So30UIResponderStandardEditActionsP", "font"]
+- !private ["So30UIResponderStandardEditActionsP", "sizeToFit"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So12UIScrollViewC", "attributedText"]
+- !private ["So12UIScrollViewC", "font"]
+- !private ["So12UIScrollViewC", "sizeToFit"]
+- !private ["So16UIStateRestoringP", "NSMutableAttributedString"]
+- !private ["So16UIStateRestoringP", "NSRange"]
+- !private ["So16UIStateRestoringP", "ORHSFacebook"]
+- !private ["So16UIStateRestoringP", "ORHSWebsite"]
+- !private ["So16UIStateRestoringP", "UIFont"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So15UITextDraggableP", "attributedText"]
+- !private ["So15UITextDraggableP", "font"]
+- !private ["So15UITextDraggableP", "sizeToFit"]
+- !private ["So15UITextDroppableP", "attributedText"]
+- !private ["So15UITextDroppableP", "font"]
+- !private ["So15UITextDroppableP", "sizeToFit"]
+- !private ["So11UITextInputP", "attributedText"]
+- !private ["So11UITextInputP", "font"]
+- !private ["So11UITextInputP", "sizeToFit"]
+- !private ["So17UITextInputTraitsP", "attributedText"]
+- !private ["So17UITextInputTraitsP", "font"]
+- !private ["So17UITextInputTraitsP", "sizeToFit"]
+- !private ["So34UITextPasteConfigurationSupportingP", "attributedText"]
+- !private ["So34UITextPasteConfigurationSupportingP", "font"]
+- !private ["So34UITextPasteConfigurationSupportingP", "sizeToFit"]
+- !private ["So10UITextViewC", "attributedText"]
+- !private ["So10UITextViewC", "font"]
+- !private ["So10UITextViewC", "sizeToFit"]
+- !private ["So18UITraitEnvironmentP", "NSMutableAttributedString"]
+- !private ["So18UITraitEnvironmentP", "NSRange"]
+- !private ["So18UITraitEnvironmentP", "ORHSFacebook"]
+- !private ["So18UITraitEnvironmentP", "ORHSWebsite"]
+- !private ["So18UITraitEnvironmentP", "UIFont"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "attributedText"]
+- !private ["So18UITraitEnvironmentP", "font"]
+- !private ["So18UITraitEnvironmentP", "sizeToFit"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "NSMutableAttributedString"]
+- !private ["So23UIUserActivityRestoringP", "NSRange"]
+- !private ["So23UIUserActivityRestoringP", "ORHSFacebook"]
+- !private ["So23UIUserActivityRestoringP", "ORHSWebsite"]
+- ["So23UIUserActivityRestoringP", "OpenExternalURLOptionsKey"]
+- !private ["So23UIUserActivityRestoringP", "UIFont"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "attributedText"]
+- !private ["So23UIUserActivityRestoringP", "font"]
+- !private ["So23UIUserActivityRestoringP", "sizeToFit"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "attributedText"]
+- !private ["So6UIViewC", "font"]
+- !private ["So6UIViewC", "sizeToFit"]
+- !private ["So16UIViewControllerC", "NSMutableAttributedString"]
+- !private ["So16UIViewControllerC", "NSRange"]
+- ["So16UIViewControllerC", "ORHSFacebook"]
+- ["So16UIViewControllerC", "ORHSWebsite"]
+- !private ["So16UIViewControllerC", "UIFont"]
+- ["So16UIViewControllerC", "UITextView"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "link"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSMutableAttributedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSRange"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ORHSFacebook"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ORHSWebsite"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "OpenExternalURLOptionsKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIFont"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAttribute"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "attributedText"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "font"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fontName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sizeToFit"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSMutableAttributedString"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSRange"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ORHSFacebook"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ORHSWebsite"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "OpenExternalURLOptionsKey"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIFont"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addAttribute"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "attributedText"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "font"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "fontName"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "sizeToFit"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["So8_NSRangeV", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "attributedText"]
+- !private ["s21_ObjectiveCBridgeableP", "font"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "link"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "sizeToFit"]
+- !private ["s20_SwiftNewtypeWrapperP", "init"]
+- !private ["s20_SwiftNewtypeWrapperP", "link"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "attributedText"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "font"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "sizeToFit"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "12ORHS_Classes18HomeViewControllerC"
+- !private "So21NSAttributedStringKeya"
+- !private "So18NSAttributedStringC"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So25NSMutableAttributedStringC"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So38UIApplicationOpenExternalURLOptionsKeya"
+- !private "Sq"
+- !private "SY"
+- !private "ST"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So13UIApplicationC"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- !private "So6UIFontC"
+- !private "So10UIKeyInputP"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- "So16UIStateRestoringP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- !private "So10UITextViewC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "So8_NSRangeV"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "964b321901f545720cf1abc28ced8055"

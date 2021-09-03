@@ -1,0 +1,6 @@
+Class Name[[[ Coding B
+Subject/Category[[[ Career Academies
+Number of Credits[[[ 0.5
+GPA[[[ 4.0
+Average Number of Hours of Homework per Day[[[ Open to any student
+Description[[[ This course is a continuation of Coding A, but is flexible enough to accommodate students who did not take Coding B or who have no programming experience.

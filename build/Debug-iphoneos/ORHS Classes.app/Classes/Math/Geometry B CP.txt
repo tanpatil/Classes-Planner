@@ -1,0 +1,6 @@
+Class Name[[[ Geometry B CP
+Subject/Category[[[ Math
+Number of Credits[[[ 1.0
+GPA[[[ 4.0
+Average Number of Hours of Homework per Day[[[ Algebra 1, Geometry A CP, teacher recommendation
+Description[[[ This is a course in Euclidean Geometry. The primary emphasis is on the development of deductive reasoning and analytical problem solving skills utilizing the relationships between geometric figures and their properties.

@@ -1,0 +1,6 @@
+Class Name[[[ Coding A
+Subject/Category[[[ Career Academies
+Number of Credits[[[ 0.5
+GPA[[[ 4.0
+Average Number of Hours of Homework per Day[[[ Open to any student
+Description[[[ This course is an introduction to coding concepts such as conditions, loops, functions, and objects. The concepts will be learned by building computer programs and games. Emphasis will be given to problem solving through structured program development.

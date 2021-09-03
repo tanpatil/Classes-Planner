@@ -1,0 +1,6 @@
+Class Name[[[ Advanced Computer Applications + MOS Certification
+Subject/Category[[[ Career Academies
+Number of Credits[[[ 1.0
+GPA[[[ 5.0
+Average Number of Hours of Homework per Day[[[ Computer Applications A or acceptable scores on proficiency tests in Word, Excel, and PowerPoint
+Description[[[ This course prepares students to continue postsecondary training in business related programs, provides advanced training for students pursuing a career in administrative and information support, and supports obtaining an industry certification. Microsoft Office programs will be taught at an expert level. Course content and projects are meant to simulate workplace scenarios and draw on skills related to communications, operations, management, and teamwork in order to accomplish information management goals. Upon completion of this course, proficient students will be fluent in a variety of information management software applications and will be prepared to sit for the Microsoft Office Specialist (MOS) certifications. The completion of this course prepares students to pursue the Microsoft Office Specialist (MOS) certification(s) by taking the exam(s) at an official testing center (ORHS is an official testing center). Certification exams are available in Word, Excel, Access, PowerPoint, and Outlook. The students will be able to take the certification exams for free.
