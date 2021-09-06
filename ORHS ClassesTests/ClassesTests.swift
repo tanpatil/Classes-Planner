@@ -1,11 +1,3 @@
-//
-//  ORHS_ClassesTests.swift
-//  ORHS ClassesTests
-//
-//  Created by Steven QU on 5/29/18.
-//  Copyright © 2018 Steven QU. All rights reserved.
-//
-
 import XCTest
 @testable import ORHS_Classes
 
